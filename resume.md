@@ -3,7 +3,6 @@
 - icelandisbeingcolouredbywrens@gmail.com
 - austin, tx
 - +14086869736
-- <http://liliff.milkteafuzz.com>
 
 ## overview
 
