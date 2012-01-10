@@ -1,6 +1,6 @@
 # musee ullah
 
-- mullah@hostgator.com
+- icelandisbeingcolouredbywrens@gmail.com
 - austin, tx
 - +14086869736
 - <http://liliff.milkteafuzz.com>
@@ -15,7 +15,7 @@ I am a 20 year old systems administrator and server firefighter with an aspirati
 
 #### systems administrator - june 2011 to present
 
-Part of a large team of administrators, we resolve thousands of issues per day, as a popular web host, across thousands of shared servers, virtual private servers and dedicated servers. These range from common database issues, backups and restorations, and reboot triages to web server/database tuning, major software upgrades and custom installations, filing bug reports and more.
+Part of a large team of administrators, we resolve thousands of issues per day, as a popular web host, across thousands of shared servers, virtual private servers and dedicated servers. These range from common database issues, backups and restorations, and reboot triage to web server/database tuning, major software upgrades and custom installations, filing bug reports and more.
 
 #### systems monitoring - december 2011 to present
 
@@ -37,7 +37,7 @@ Repurposed two decade-old computers to use around the shop/help business flow in
 
 #### member/developer
 
-I assist the webmaster in site design in development, for the most part (as a friend). I have submitted a C patch in the KoRx bugtracker (just one!), and previously moderated the servers and forums.
+I assist the webmaster in site design in development, for the most part (as a friend). I have submitted a C patch in the KoRx bug tracker (just one!), and previously moderated the servers and forums.
 
 ## awards
 
