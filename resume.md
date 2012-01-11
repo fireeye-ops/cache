@@ -1,8 +1,8 @@
 # musee ullah
 
-<icelandisbeingcolouredbywrens@gmail.com>
-austin, tx
-+14086869736
+<icelandisbeingcolouredbywrens@gmail.com>  
+austin, tx 
++14086869736  
 
 ## overview
 
@@ -59,9 +59,9 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 
 ### [university of illinois at urbana-champaign][]
 
-- student in east asian languages and cultures - fall 2010 to spring 2011
+- student in east asian languages and cultures - fall 2010 to spring 2011  
   3.0 in-department gpa, advisor: misumi sadler
-- student in computer science - spring 2011
+- student in computer science - spring 2011  
   4.0 in-department gpa, advisor: stephen herzog
 
 ### [grand prairie high school][] - august 2006 to june 2010
