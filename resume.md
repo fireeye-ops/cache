@@ -1,8 +1,8 @@
 # musee ullah
 
-- <icelandisbeingcolouredbywrens@gmail.com>
-- austin, tx
-- +14086869736
+<icelandisbeingcolouredbywrens@gmail.com>
+austin, tx
++14086869736
 
 ## overview
 
@@ -42,7 +42,7 @@ I assist the webmaster in site design in development, for the most part (as a fr
 
 - employee of the month, november 2011
 - state qualification for [academic decathlon][], spring 2010
-- ap scholar award, 2009 and 2010
+- [ap scholar award][], 2009 and 2010
 - times person of the year, 2006
 
 ## skills
@@ -78,3 +78,4 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 [knights of reason]: http://www.knightsofreason.net
 [academic decathlon]: http://usad.org
 [jasga language school]: http://www.jasga.org/news/announcements/fall-2011-japanese-language-program
+[ap scholar award]: http://www.collegeboard.com/student/testing/ap/scholarawards.html
