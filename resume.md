@@ -67,8 +67,6 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 ### [grand prairie high school][] - august 2006 to june 2010
 
 - graduated summa cum laude, 4.4 gpa
-- national honour society
-- founding member/secretary of the foreign affairs and current events council
 
 [hostgator.com, llc]: http://www.hostgator.com
 [university of illinois at urbana-champaign]: http://www.illinois.edu
