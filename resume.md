@@ -34,12 +34,6 @@ Assisted visitors to the on-campus shop with maintaining and building bicycles, 
 
 Repurposed two decade-old computers to use around the shop/help business flow in the organisation. Also managed membership information and helped to create a scalable membership system.
 
-### [Knights of Reason][] - March 2008 to present
-
-#### Member/Developer
-
-I assist the webmaster in site design in development, for the most part (as a friend). I have submitted a C patch in the KoRx bug tracker (just one!), and previously moderated the servers and forums.
-
 ## Skills
 
 My major area of expertise is the GNU/Linux operating system and administration of it - this ranges with great knowledge in Arch/Gentoo Linux and CentOS, to experience in Red Hat's counterpart, Fedora, and Debian.
@@ -62,6 +56,16 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 ### [Grand Prairie High School][] - August 2006 to June 2010
 
 - Graduated Summa Cum Laude, 4.4 GPA
+
+## Projects
+
+### [Knights of Reason][] - March 2008 to March 2011
+
+I assisted with website development, submitted a single C patch for a bug in the Tremulous mod, and moderated the servers and forum.
+
+### spelling.php - Winter/Spring 2010
+
+This was a small database backed application written in PHP that helped members of my spelling team practice for competitions - sounds and definitions were pulled from American Heritage's Online Dictionary.
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [University of Illinois at Urbana-Champaign]: http://www.illinois.edu
