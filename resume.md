@@ -16,6 +16,8 @@ I am a 20 year old systems administrator and server firefighter with an aspirati
 
 Part of a large team of administrators, we resolve thousands of issues per day, as a popular web host, across thousands of shared servers, virtual private servers and dedicated servers. These range from common database issues, backups and restorations, and reboot triage to web server/database tuning, major software upgrades and custom installations, filing bug reports and more.
 
+*Highlight*: I was employee of the month my 5th month into the position, November. 
+
 #### systems monitoring - december 2011 to present
 
 As one unit of a small team of monitors (3-4 usually), we proactively monitor the entire farm for issues before they become major. Issues I handle range from CPU abusers, low disk space, and hard drive errors to Denial of Service attacks/flooding, disaster recovery, and individual site performance reviews.
@@ -37,13 +39,6 @@ Repurposed two decade-old computers to use around the shop/help business flow in
 #### member/developer
 
 I assist the webmaster in site design in development, for the most part (as a friend). I have submitted a C patch in the KoRx bug tracker (just one!), and previously moderated the servers and forums.
-
-## awards
-
-- employee of the month, november 2011
-- state qualification for [academic decathlon][], spring 2010
-- [ap scholar award][], 2009 and 2010
-- times person of the year, 2006
 
 ## skills
 
