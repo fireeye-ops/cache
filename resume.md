@@ -7,7 +7,7 @@ Austin, TX
 
 ## Overview
 
-I am a 20 year old systems administrator and server firefighter with an aspiration of becoming a part of the DevOps movement.
+I am a 20 year old systems administrator and server firefighter aspiring to become a developer. I learn very quickly in action and am not afraid to take on new ventures. I enjoy what I do and hope to someday create and maintain world changing applications.
 
 ## Work Experience
 
@@ -17,7 +17,7 @@ I am a 20 year old systems administrator and server firefighter with an aspirati
 
 Part of a large team of administrators, we resolve thousands of issues per day, as a popular web host, across thousands of shared servers, virtual private servers and dedicated servers. These range from common database issues, backups and restorations, and reboot triage to web server/database tuning, major software upgrades and custom installations, filing bug reports and more.
 
-*Highlight*: I was employee of the month my 5th month into the position, November. 
+*Highlight*: I was employee of the month for November 2011 (5th month at the job/out of ~120 admins).
 
 #### Systems Monitoring - December 2011 to present
 
