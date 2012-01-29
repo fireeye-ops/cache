@@ -21,7 +21,7 @@ Part of a large team of administrators, we resolve thousands of issues per day, 
 
 #### Systems Monitoring - December 2011 to present
 
-As one unit of a small team of monitors (3-4 usually), we proactively monitor the entire farm for issues before they become major. Issues I handle range from CPU abusers, low disk space, and hard drive errors to Denial of Service attacks/flooding, disaster recovery, and individual site performance reviews.
+As one unit of a small team of monitors (3-4 usually), we proactively monitor the entire farm for issues before they become major. Issues I handle range from CPU abusers, low disk space, and hard drive errors to Denial of Service attacks/flooding, disaster recovery, and individual site performance reviews. Occasionally I do get to make public announcements on our [network status forums][].
 
 ## Volunteer Experience
 
@@ -73,6 +73,7 @@ I assisted with website development, submitted a single C patch for a bug in the
 This was a small database backed application written in PHP that helped members of my spelling team practice for competitions - sounds and definitions were pulled from American Heritage's Online Dictionary.
 
 [HostGator.Com, LLC]: http://www.hostgator.com
+[network status forums]: http://forums.hostgator.com/network-status-f14.html
 [University of Illinois at Urbana-Champaign]: http://www.illinois.edu
 [Grand Prairie High School]: http://gphs.gpisd.org
 [The Bike Project of Urbana-Champaign]: http://thebikeproject.org
