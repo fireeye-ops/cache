@@ -60,7 +60,11 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 
 ## Projects
 
-### [Knights of Reason][] - March 2008 to March 2011
+### [Project Himari][] - January 2011 (on hold)
+
+This is a project I'm working on (in Ruby) as a way to simply maintain a shared hosting environment suitable for Rails applications. Currently on hold as I do more research and learning.
+
+### [Knights of Reason][] - March 2008 and ongoing
 
 I assisted with website development, submitted a single C patch for a bug in the Tremulous mod, and moderated the servers and forum.
 
@@ -75,4 +79,4 @@ This was a small database backed application written in PHP that helped members 
 [Registered Student Organisation]: http://www.union.uiuc.edu/involvement/rso
 [Knights of Reason]: http://www.knightsofreason.net
 [JASGA Language School]: http://www.jasga.org/news/announcements/fall-2011-japanese-language-program
-
+[Project Himari]: https://github.com/liliff/project-himari
