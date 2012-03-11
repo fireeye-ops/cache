@@ -62,31 +62,7 @@ Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL
 (sqlite/mysql), Lighttpd/Apache, cPanel/WHM, Plesk, Javascript, djbdns/BIND9, 
 Exim, and LaTeX.
 
-## Projects
-
-### [Project Himari][] - January 2011 (on hold)
-
-This is a project I'm working on (in Ruby) as a way to simply maintain a shared 
-hosting environment suitable for Rails applications. Currently on hold as I do 
-more research and learning.
-
-### [Knights of Reason][] - March 2008 and ongoing
-
-I assisted with website development, submitted a single C patch for a bug in the 
-Tremulous mod, and moderated the servers and forum.
-
-### spelling.php - Winter/Spring 2010
-
-This was a small database backed application written in PHP that helped members 
-of my spelling team practice for competitions - sounds and definitions were 
-pulled from American Heritage's Online Dictionary.
-
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
-[University of Illinois at Urbana-Champaign]: http://www.illinois.edu
-[Grand Prairie High School]: http://gphs.gpisd.org
 [The Bike Project of Urbana-Champaign]: http://thebikeproject.org
 [Registered Student Organisation]: http://www.union.uiuc.edu/involvement/rso
-[Knights of Reason]: http://www.knightsofreason.net
-[JASGA Language School]: http://www.jasga.org/news/announcements/fall-2011-japanese-language-program
-[Project Himari]: https://github.com/liliff/project-himari
