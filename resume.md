@@ -1,7 +1,7 @@
 # Musee Ullah
 
 <milkteafuzz@gmail.com>  
-<http://nia.teppel.in>  
+<http://milkteafuzz.com>  
 Austin, TX  
 +14086869736  
 
