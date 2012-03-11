@@ -41,23 +41,6 @@ My major area of expertise is the GNU/Linux operating system and administration 
 
 Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL (sqlite/mysql), Lighttpd/Apache, cPanel/WHM, Plesk, Javascript, djbdns/BIND9, Exim, and LaTeX.
 
-## Education
-
-### [JASGA Language School][] - September to December 2011 (Austin, TX)
-
-- Studied beginner III Japanese (continuation from college) in small classes, proficient in kana and many basic grammatical structures.
-
-### [University of Illinois at Urbana-Champaign][]
-
-- Student in East Asian Languages and Cultures - Fall 2010 to Spring 2011  
-  3.0 in-department GPA, advisor: Misumi Sadler
-- Student in Computer Science - Spring 2011  
-  4.0 in-department GPA, advisor: Stephen Herzog
-
-### [Grand Prairie High School][] - August 2006 to June 2010
-
-- Graduated Summa Cum Laude, 4.4 GPA
-
 ## Projects
 
 ### [Project Himari][] - January 2011 (on hold)
