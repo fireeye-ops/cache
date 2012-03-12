@@ -29,12 +29,12 @@ job/out of ~120 admins).
 
 #### Systems Monitoring - December 2011 to present
 
-As one unit of a small team of monitors (3-4 usually), we proactively monitor 
-the entire farm (over 4500 servers) for issues before they become major. Issues 
-I handle range from CPU abusers, low disk space, and hard drive errors to Denial 
-of Service attacks/flooding, disaster recovery, and individual site performance 
-reviews. I make public announcements on our [network status forums][] for 
-extended downtime issues.
+As one unit of a small team of monitors (3-4 usually), I proactively monitor the 
+entire shared server portion of the farm (over 4500 servers) for issues before 
+they become major. Issues I handle range from CPU abusers, low disk space, and 
+hard drive errors to Denial of Service attacks/flooding, disaster recovery, and 
+individual site performance reviews. I also make public announcements on our 
+[network status forums][] for extended downtime issues.
 
 ## Skills
 
