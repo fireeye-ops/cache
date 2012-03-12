@@ -49,7 +49,7 @@ forums][].
 **Data/FS:** RAID (3ware, Adaptec, MegaRAID), LVM2, FUSE, rsync  
 **Version Control:** RCS, Git, Subversion  
 **Package Managers:** portage, pacman, yum/rpm  
-**Miscellaneous:** GCC/Compiling, VirtualBox, TightVNC, BIND9, Jekyll  
+**Miscellaneous:** cPanel/WHM, GCC/Compiling, VirtualBox, TightVNC, BIND, Jekyll  
 
 ## Volunteer Experience
 
