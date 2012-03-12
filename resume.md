@@ -45,10 +45,11 @@ Programming: PHP
 HTTP: Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin
 Database: MySQL  
 Mail: Exim, Dovecot, mailx  
-Monitoring: Zabbix, sysstat, IPMI  
+Monitoring: Zabbix, sysstat, IPMI, tcpdump/ngrep  
+Data/FS: RAID (3ware, Adaptec, MegaRAID), LVM2, FUSE, rsync  
 Version Control: RCS, Git, Subversion  
 Package Managers: portage, pacman, yum/rpm  
-Miscellaneous: GCC/Compiling, VirtualBox, TightVNC, BIND9, LVM2, FUSE, Jekyll  
+Miscellaneous: GCC/Compiling, VirtualBox, TightVNC, BIND9, Jekyll  
 
 ## Volunteer Experience
 
