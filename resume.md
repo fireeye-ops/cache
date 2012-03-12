@@ -68,8 +68,8 @@ president.
 
 #### Technologist
 
-Repurposed two decade-old computers to use around the shop/help business flow in 
-the organisation. Also managed membership information and helped to create a 
+Repurposed two decade-old computers with Debian to use around the shop/help business 
+flow in the organisation. Also managed membership information and helped to create a 
 scalable membership system.
 
 [HostGator.Com, LLC]: http://www.hostgator.com
