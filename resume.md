@@ -42,7 +42,7 @@ forums][].
 **Scripting:** Bash, Ruby, Javascript  
 **Markup:** Markdown, HTML (4.01 and 5), XHTML 1.0, CSS3, YAML, LaTeX, XML  
 **Programming:** PHP  
-**HTTP:** Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin
+**HTTP:** Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin  
 **Database:** MySQL  
 **Mail:** Exim, Dovecot, mailx  
 **Monitoring:** Zabbix, sysstat, IPMI, tcpdump/ngrep  
