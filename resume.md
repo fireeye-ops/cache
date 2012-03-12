@@ -36,6 +36,20 @@ attacks/flooding, disaster recovery, and individual site performance reviews.
 Occasionally I do get to make public announcements on our [network status 
 forums][].
 
+## Skills
+
+OS/Distros: CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, Windows XP  
+Scripting: Bash, Ruby, Javascript  
+Markup: Markdown, HTML (4.01 and 5), XHTML 1.0, CSS3, YAML, LaTeX, XML  
+Programming: PHP  
+HTTP: Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin
+Database: MySQL  
+Mail: Exim, Dovecot, mailx  
+Monitoring: Zabbix, sysstat, IPMI  
+Version Control: RCS, Git, Subversion  
+Package Managers: portage, pacman, yum/rpm  
+Miscellaneous: GCC/Compiling, VirtualBox, TightVNC, BIND9, LVM2, FUSE, Jekyll  
+
 ## Volunteer Experience
 
 ### [The Bike Project of Urbana-Champaign][] - August 2010 to February 2011
@@ -51,16 +65,6 @@ president.
 Repurposed two decade-old computers to use around the shop/help business flow in 
 the organisation. Also managed membership information and helped to create a 
 scalable membership system.
-
-## Skills
-
-My major area of expertise is the GNU/Linux operating system and administration 
-of it - this ranges with great knowledge in Arch/Gentoo Linux and CentOS, to 
-experience in Red Hat's counterpart, Fedora, and Debian.
-
-Other areas of working knowledge fall in: (X)HTML, CSS, PHP, bash scripting, SQL 
-(sqlite/mysql), Lighttpd/Apache, cPanel/WHM, Plesk, Javascript, djbdns/BIND9, 
-Exim, and LaTeX.
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
