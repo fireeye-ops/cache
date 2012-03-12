@@ -38,18 +38,18 @@ forums][].
 
 ## Skills
 
-OS/Distros: CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, Windows XP  
-Scripting: Bash, Ruby, Javascript  
-Markup: Markdown, HTML (4.01 and 5), XHTML 1.0, CSS3, YAML, LaTeX, XML  
-Programming: PHP  
-HTTP: Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin
-Database: MySQL  
-Mail: Exim, Dovecot, mailx  
-Monitoring: Zabbix, sysstat, IPMI, tcpdump/ngrep  
-Data/FS: RAID (3ware, Adaptec, MegaRAID), LVM2, FUSE, rsync  
-Version Control: RCS, Git, Subversion  
-Package Managers: portage, pacman, yum/rpm  
-Miscellaneous: GCC/Compiling, VirtualBox, TightVNC, BIND9, Jekyll  
+*OS/Distros:* CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, Windows XP  
+*Scripting:* Bash, Ruby, Javascript  
+*Markup:* Markdown, HTML (4.01 and 5), XHTML 1.0, CSS3, YAML, LaTeX, XML  
+*Programming:* PHP  
+*HTTP:* Lighttpd, Apache, nginx, Mongrel, Unicorn, Thin
+*Database:* MySQL  
+*Mail:* Exim, Dovecot, mailx  
+*Monitoring:* Zabbix, sysstat, IPMI, tcpdump/ngrep  
+*Data/FS:* RAID (3ware, Adaptec, MegaRAID), LVM2, FUSE, rsync  
+*Version Control:* RCS, Git, Subversion  
+*Package Managers:* portage, pacman, yum/rpm  
+*Miscellaneous:* GCC/Compiling, VirtualBox, TightVNC, BIND9, Jekyll  
 
 ## Volunteer Experience
 
