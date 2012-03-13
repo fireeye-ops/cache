@@ -10,7 +10,7 @@ Austin, TX
 I am a 20 year old systems administrator and server firefighter aspiring to 
 become both a developer and administrator. I learn very quickly in action and am 
 not afraid to take on new ventures. I enjoy what I do and hope to someday create 
-and maintain world changing applications.
+and maintain world-changing applications.
 
 ## Work Experience
 
