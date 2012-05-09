@@ -43,8 +43,8 @@ of our shared/reseller servers from 32-bit to 64-bit.
 ### [ZMonitor][]
 
 This is a console client for Zabbix that I developed in Ruby, as the Zabbix 
-monitoring software did not come bundled with one. It contacts the API and 
-generates a dashboard-like interface to show current active problems, their 
+monitoring software did not come bundled with one. It contacts the API (json) 
+and generates a dashboard-like interface to show current active problems, their 
 acknowledgement status and priority. This client also allows acknowledgement 
 of active triggers, and other features like server history are underway.
 
@@ -54,19 +54,18 @@ of active triggers, and other features like server history are underway.
 Ubuntu\*, Windows XP  
 **Scripting:** Bash, Ruby, Javascript\*  
 **Markup:** Markdown, HTML4 (w/ a dab of 5), XHTML 1.0, CSS3, YAML, LaTeX, XML\*  
-**Programming:** PHP  
-**HTTP:** Lighttpd, Apache, nginx\*, Mongrel, Thin\*  
+**Programming:** PHP, Ruby  
+**HTTP:** Lighttpd, Apache, nginx\*, Mongrel  
 **Database:** MySQL  
 **Mail:** Exim, Dovecot, mailx  
 **Monitoring:** Zabbix, sysstat, IPMI  
-**Network:** tcpdump/ngrep, iptables, iproute\*  
+**Network:** tcpdump/ngrep, iptables  
 **Data/FS:** RAID (3ware, Adaptec, MegaRAID)\*, LVM2, FUSE, NAS, rsync, testdisk  
 **Version Control:** RCS\*, Git\*, Subversion\*  
 **Package Managers:** portage, pacman, yum/rpm  
 **Virtualisation:** Virtuozzo\*, VirtualBox, TightVNC  
 **Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling\*, BIND, Jekyll  
-*\* indicates partial understanding and ability to set-up/troubleshoot, and 
-that it is a skill in progress*
+*\* indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
