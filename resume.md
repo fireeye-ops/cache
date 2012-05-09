@@ -35,6 +35,18 @@ hard drive errors to Denial of Service attacks/flooding, disaster recovery, and
 individual site performance reviews. I also make public announcements on our 
 [network status forums][] for extended downtime issues.
 
+**Highlight**: I provided significant assistance in migrating the architecture 
+of our shared/reseller servers from 32-bit to 64-bit.
+
+## Projects
+
+### [ZMonitor][]
+
+This is a console client for Zabbix that I developed in Ruby, as the Zabbix 
+monitoring software did not come bundled with one. It contacts the API and 
+generates a dashboard-like interface to show current active problems, their 
+acknowledgement status and priority. This client also allows acknowledgement 
+of active triggers, and other features like server history are underway.
 
 ## Skills
 
@@ -58,3 +70,4 @@ that it is a skill in progress*
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
+[ZMonitor]: https://github.com/liliff/zmonitor
