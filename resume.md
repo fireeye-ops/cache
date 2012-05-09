@@ -50,22 +50,22 @@ of active triggers, and other features like server history are underway.
 
 ## Skills
 
-**OS/Distros:** CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, FreeBSD†, 
-Ubuntu†, Windows XP  
-**Scripting:** Bash, Ruby, Javascript†  
-**Markup:** Markdown, HTML4 (w/ a dab of 5), XHTML 1.0, CSS3, YAML, LaTeX, XML†  
+**OS/Distros:** CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, FreeBSD\*, 
+Ubuntu\*, Windows XP  
+**Scripting:** Bash, Ruby, Javascript\*  
+**Markup:** Markdown, HTML4 (w/ a dab of 5), XHTML 1.0, CSS3, YAML, LaTeX, XML\*  
 **Programming:** PHP, Ruby  
-**HTTP:** Lighttpd, Apache, nginx†, Mongrel  
+**HTTP:** Lighttpd, Apache, nginx\*, Mongrel  
 **Database:** MySQL  
 **Mail:** Exim, Dovecot, mailx  
 **Monitoring:** Zabbix, sysstat, IPMI  
 **Network:** tcpdump/ngrep, iptables  
-**Data/FS:** RAID (3ware, Adaptec, MegaRAID)†, LVM2, FUSE, NAS, rsync, testdisk  
-**Version Control:** RCS†, Git†, Subversion†  
+**Data/FS:** RAID (3ware, Adaptec, MegaRAID)\*, LVM2, FUSE, NAS, rsync, testdisk  
+**Version Control:** RCS\*, Git\*, Subversion\*  
 **Package Managers:** portage, pacman, yum/rpm  
-**Virtualisation:** Virtuozzo†, VirtualBox, TightVNC  
-**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling†, BIND, Jekyll  
-*† indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
+**Virtualisation:** Virtuozzo\*, VirtualBox, TightVNC  
+**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling\*, BIND, Jekyll  
+*&#42; indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
