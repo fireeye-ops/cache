@@ -65,7 +65,7 @@ Ubuntu\*, Windows XP
 **Package Managers:** portage, pacman, yum/rpm  
 **Virtualisation:** Virtuozzo\*, VirtualBox, TightVNC  
 **Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling\*, BIND, Jekyll  
-*\* indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
+* \* indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 [HostGator.Com, LLC]: http://www.hostgator.com
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
