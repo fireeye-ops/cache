@@ -32,7 +32,7 @@ As one unit of a small team of monitors (3-4 usually), I proactively monitor the
 entire shared server portion of our farm (over 4500 servers) for issues before 
 they become major. Issues I handle range from CPU abuse, low disk space, and 
 hard drive errors to Denial of Service attacks/flooding, disaster recovery, and 
-individual site performance reviews. I also make public announcements on our 
+individual site performance reviews. I also make [public announcements][] on our 
 [network status forums][] for extended downtime issues.
 
 **Highlight**: I provided significant assistance in migrating the architecture 
@@ -69,5 +69,6 @@ Ubuntu\*, Windows XP
 that it is a skill in progress*
 
 [HostGator.Com, LLC]: http://www.hostgator.com
+[public announcements]: http://forums.hostgator.com/search.php?do=finduser&u=126179
 [network status forums]: http://forums.hostgator.com/network-status-f14.html
 [ZMonitor]: https://github.com/liliff/zmonitor
