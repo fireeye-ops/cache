@@ -43,9 +43,9 @@ servers from 32- to 64-bit.
 
 Console client for the Zabbix monitoring suite, developed in Ruby. It 
 interfaces with the Zabbix API using JSON for gathering current active 
-triggers and acknowledging events, and basically provides a CLI dashboard 
-(the Zabbix suite did not come with one). Other features like event 
-history based on hostname are planned.
+triggers and acknowledging events. It basically provides a CLI dashboard, 
+a method to easily acknowledge several related alerts, and one to feed 
+output to other applications.
 
 ## Skills
 
