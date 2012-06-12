@@ -67,6 +67,11 @@ Ubuntu\*, Windows XP
 **Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling\*, BIND, Jekyll  
 *&#42; indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
+## Education
+
+**University of Illinois at Urbana-Champaign:** Completed a semester as an East Asian Languages major,       
+with a 4.0 GPA in Japanese.
+
 [HostGator.Com, LLC]: http://www.hostgator.com
 [public announcements]: http://forums.hostgator.com/search.php?do=finduser&u=126179
 [network status forums]: http://forums.hostgator.com/network-status-f14.html

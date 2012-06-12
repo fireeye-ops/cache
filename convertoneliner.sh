@@ -1,2 +1,0 @@
-#!/bin/bash
-echo $(printf '<!DOCTYPE html>\n<html>\n<head><title></title><style type="text/css">\n p { text-align: justify; font-family: serif; font-size: 0.8em; margin: 0.3em 0; }\nh2 { font-size: 1.3em; }\nh3 { font-size: 1.15em; }\nh4 { font-size: 1em; }\n h2,h3,h4 { margin: 0.5em 0; }\n</style>\n</head>\n<body>';rdiscount resume.md;printf '</body>\n</html>') | htmldoc --webpage --format pdf14 --headfootsize 6.0 --header . --footer . --pagelayout single - > resume.pdf
