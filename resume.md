@@ -51,7 +51,7 @@ of active triggers, and other features like server history are underway.
 ## Skills
 
 **OS/Distros:** CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, FreeBSD\*, 
-Ubuntu\*, Windows XP  
+Ubuntu\*, WinXP  
 **Scripting:** Bash, Ruby, Javascript\*  
 **Markup:** Markdown, HTML4 (w/ a dab of 5), XHTML 1.0, CSS3, YAML, LaTeX, XML\*  
 **Programming:** PHP, Ruby  
@@ -69,7 +69,7 @@ Ubuntu\*, Windows XP
 
 ## Education
 
-**University of Illinois at Urbana-Champaign:** Completed a semester as an East Asian Languages major,       
+**University of Illinois at Urbana-Champaign:** Completed a semester as an East Asian Languages major, 
 with a 4.0 GPA in Japanese.
 
 [HostGator.Com, LLC]: http://www.hostgator.com

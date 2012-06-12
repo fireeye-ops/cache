@@ -1,1 +1,6 @@
 Tis...my resume, in Markdown.
+
+
+I'm using the static wkhtmltopdf binary here:
+
+http://wkhtmltopdf.googlecode.com/files/wkhtmltopdf-0.9.9-static-amd64.tar.bz2
