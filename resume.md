@@ -23,8 +23,7 @@ of servers. These ranged from common MySQL issues, backups and restorations, and
 reboot triage to web server/database tuning, major software upgrades and custom 
 installations, filing bug reports, writing documentation, etc.
 
-**Highlight**: I was employee of the month for November 2011 (5th month at the 
-job/out of ~120 admins).
+**Highlight**: I was employee of the month for November 2011 (out of ~120 admins).
 
 #### Systems Monitoring - December 2011 to present
 
@@ -35,8 +34,8 @@ hard drive errors to Denial of Service attacks/flooding, disaster recovery, and
 individual site performance reviews. I also make [public announcements][] on our 
 [network status forums][] for extended downtime issues.
 
-**Highlight**: I provided significant assistance in migrating the architecture 
-of our shared/reseller servers from 32-bit to 64-bit.
+**Highlight**: I was an important asset in migrating our shared/reseller 
+servers from 32- to 64-bit.
 
 ## Projects
 
