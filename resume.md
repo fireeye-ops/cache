@@ -8,7 +8,7 @@ Austin, TX
 ## Overview
 
 I am a 20 year old systems administrator and server firefighter aspiring to 
-become both a developer and administrator. I learn very quickly in action and am 
+become both a developer and administrator. I learn very quickly in practice and am 
 not afraid to take on new ventures. I enjoy what I do and hope to someday create 
 and maintain world-changing applications.
 
@@ -50,21 +50,20 @@ of active triggers, and other features like server history are underway.
 
 ## Skills
 
-**OS/Distros:** CentOS 5, CentOS 6, Arch Linux, Gentoo Linux, Fedora, FreeBSD\*, 
-Ubuntu\*, WinXP  
-**Scripting:** Bash, Ruby, Javascript\*  
-**Markup:** Markdown, HTML4 (w/ a dab of 5), XHTML 1.0, CSS3, YAML, LaTeX, XML\*  
+**OS/Distros:** CentOS, Arch Linux, Gentoo Linux, Fedora, Ubuntu\*, WinXP  
+**Scripting:** Bash, Ruby  
+**Markup:** Markdown, (X)HTML (incl. HTML5), CSS3, YAML, LaTeX  
 **Programming:** PHP, Ruby  
 **HTTP:** Lighttpd, Apache, nginx\*, Mongrel  
-**Database:** MySQL  
-**Mail:** Exim, Dovecot, mailx  
+**Database:** MySQL, PostgreSQL\*  
+**Mail:** Exim, Dovecot  
 **Monitoring:** Zabbix, sysstat, IPMI  
 **Network:** tcpdump/ngrep, iptables  
-**Data/FS:** RAID (3ware, Adaptec, MegaRAID)\*, LVM2, FUSE, NAS, rsync, testdisk  
-**Version Control:** RCS\*, Git\*, Subversion\*  
+**Data/FS:** RAID (3ware, Adaptec, MegaRAID)\*, LVM2, FUSE, rsync, testdisk  
+**Version Control:** Git\*, Subversion\*  
 **Package Managers:** portage, pacman, yum/rpm  
 **Virtualisation:** Virtuozzo\*, VirtualBox, TightVNC  
-**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling\*, BIND, Jekyll  
+**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling software, BIND, Jekyll  
 *&#42; indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 ## Education
