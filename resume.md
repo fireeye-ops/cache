@@ -30,12 +30,15 @@ knowledgebase and internal wikis.
 
 #### Systems Monitoring - December 2011 to present
 
-As one unit of a small team of monitors (1-2 usually), I proactively monitor the 
-entire shared server portion of our farm (over 4500 servers) for issues before 
-they become major. Issues I handle range from CPU abuse, low disk space, and 
-hard drive errors to Denial of Service attacks/flooding, disaster recovery, and 
-individual site performance reviews. I also write [public announcements][] on our 
-[network status forums][] for extended downtime issues.
+I proactively monitor the shared server portion of our farm (>4500 servers), as
+part of a team (of 1-2 others usually). My typical day consists of the following:  
+- Severe load issues, immediate response and triage, gathering data and acting on it (ties into below)  
+- User abuse issues, mostly site performance related, some spam and miscellaneous abuse  
+- Server health, including disk space/performance issues, filesystem checks, general server happiness, etc.  
+- Network/service uptime, resolving UDP/SYN floods, Slowloris/(D)DoS, broken configurations, etc.  
+- Individual site performance reviews, and keeping sessions open on problem servers all night.  
+I also write [public announcements][] on our [network status forums][] 
+for extended downtime issues.
 
 **Highlight**: I was an important asset in migrating our shared/reseller 
 servers from 32- to 64-bit.
