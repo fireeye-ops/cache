@@ -18,20 +18,23 @@ and maintain world-changing applications.
 
 #### Systems Administrator - June 2011 to present
 
-I resolved hundreds of issues per week through our ticket system across thousands 
-of servers. These ranged from common MySQL issues, backups and restorations, and 
-reboot triage to web server/database tuning, major software upgrades and custom 
-installations, filing bug reports, writing documentation, etc.
+Resolved hundreds of issues per week through a support ticket system, including:  
+- PHP/MySQL/Rails/website/application errors, issues  
+- Backups and restorations  
+- Reboot triage and server tuning (MySQL and Apache particularly)  
+- Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, etc.)  
+Also filed internal bug reports and wrote documentation for our support 
+knowledgebase and internal wikis.
 
 **Highlight**: I was employee of the month for November 2011 (out of ~120 admins).
 
 #### Systems Monitoring - December 2011 to present
 
-As one unit of a small team of monitors (3-4 usually), I proactively monitor the 
+As one unit of a small team of monitors (1-2 usually), I proactively monitor the 
 entire shared server portion of our farm (over 4500 servers) for issues before 
 they become major. Issues I handle range from CPU abuse, low disk space, and 
 hard drive errors to Denial of Service attacks/flooding, disaster recovery, and 
-individual site performance reviews. I also make [public announcements][] on our 
+individual site performance reviews. I also write [public announcements][] on our 
 [network status forums][] for extended downtime issues.
 
 **Highlight**: I was an important asset in migrating our shared/reseller 
