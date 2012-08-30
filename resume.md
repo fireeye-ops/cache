@@ -64,8 +64,8 @@ output to other applications.
 **Data/FS:** RAID\*, LVM2, FUSE, rsync, testdisk, NFS\*  
 **Version Control:** Git\*, Subversion\*  
 **Package Managers:** portage, pacman, yum/rpm  
-**Virtualisation:** Virtuozzo\*, VirtualBox, (qemu)KVM\*  
-**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling software, BIND*, Jekyll  
+**Virtualisation:** Virtuozzo\*, VirtualBox, (qemu-)KVM\*  
+**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling software, BIND\*, Jekyll  
 *&#42; indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 ## Education
