@@ -2,7 +2,7 @@
 
 <milkteafuzz@gmail.com>  
 <http://milkteafuzz.com>  
-Austin, TX  
+Chicago, IL  
 +14086869736  
 
 ## Overview
