@@ -16,7 +16,7 @@ and maintain world-changing applications.
 
 ### [HostGator.Com, LLC][], Austin, TX
 
-#### Systems Administrator - June 2011 to present
+#### Systems Administrator - June 2011 to July 2012
 
 Resolved hundreds of issues per week through a support ticket system, including:  
 - PHP/MySQL/Rails/website/application errors, issues  
@@ -28,7 +28,7 @@ knowledgebase and internal wikis.
 
 **Highlight**: I was employee of the month for November 2011 (out of ~120 admins).
 
-#### Systems Monitoring - December 2011 to present
+#### Systems Monitoring - December 2011 to July 2012
 
 I proactively monitor the shared server portion of our farm (>4500 servers), as
 part of a team (of 1-2 others usually). My typical day consists of the following:  
