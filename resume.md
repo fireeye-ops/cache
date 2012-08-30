@@ -55,20 +55,17 @@ output to other applications.
 
 ## Skills
 
-**OS/Distros:** CentOS, Arch Linux, Gentoo Linux, Fedora, Ubuntu\*, WinXP  
+**OS/Distros:** CentOS, Arch Linux, Gentoo Linux, WinXP  
 **Scripting:** Bash, Ruby  
 **Markup:** Markdown, (X)HTML (incl. HTML5), CSS3, YAML, LaTeX  
 **Programming:** PHP, Ruby  
 **HTTP:** Lighttpd, Apache, nginx\*, Mongrel  
-**Database:** MySQL, PostgreSQL\*  
-**Mail:** Exim, Dovecot  
-**Monitoring:** Zabbix, sysstat, IPMI  
-**Network:** tcpdump/ngrep, iptables  
-**Data/FS:** RAID (3ware, Adaptec, MegaRAID)\*, LVM2, FUSE, rsync, testdisk  
+**Monitoring:** Zabbix, sysstat, IPMI, tcpdump/ngrep, iptables  
+**Data/FS:** RAID\*, LVM2, FUSE, rsync, testdisk, NFS\*  
 **Version Control:** Git\*, Subversion\*  
 **Package Managers:** portage, pacman, yum/rpm  
-**Virtualisation:** Virtuozzo\*, VirtualBox, TightVNC  
-**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling software, BIND, Jekyll  
+**Virtualisation:** Virtuozzo\*, VirtualBox, (qemu)KVM\*  
+**Miscellaneous:** cPanel/WHM, LAMP, GCC/Compiling software, BIND*, Jekyll  
 *&#42; indicates partial understanding and ability to set-up/troubleshoot, and that it is a skill in progress*
 
 ## Education
