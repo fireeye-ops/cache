@@ -15,8 +15,9 @@ An entry-level position in systems administration or software development.
 
 #### Systems Administrator - June 2011 to July 2012
 
-* Resolved hundreds of web hosting-related issues per week through a support ticket system.  
-* Internally filed bug reports and wrote documentation for internal wikis and knowledgebase.
+* Resolved hundreds of web hosting-related and dedicated server/VPS issues 
+per week through a support ticket system.  
+* Internally filed bug reports and wrote documentation for HG's wikis and knowledgebase.
 
 #### Systems Monitoring - December 2011 to July 2012
 
@@ -24,8 +25,9 @@ An entry-level position in systems administration or software development.
 abnormal load, user abuse, hardware health, network connectivity and attacks, 
 and broken configurations.  
 * Wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
-on HostGator's [network status forums](http://forums.hostgator.com/network-status-f14.html) 
-for extended downtime issues.
+on HG's [network status forums](http://forums.hostgator.com/network-status-f14.html) 
+for extended downtime issues.  
+* Assisted a Level 3 administrator in migrating the farm from 32bit to 64bit.
 
 ## Volunteering
 
@@ -69,10 +71,15 @@ output to other applications.
 **Database:** MySQL, Redis  
 **Monitoring:** Zabbix, sysstat, IPMI, tcpdump/ngrep, iptables  
 **Package Managers:** portage, pacman, yum/rpm, apt  
-**Miscellaneous:** cPanel/WHM, Git, LAMP, Compilation, Jekyll  
+**Miscellaneous:** cPanel/WHM, Git, LAMP, Compilation, Jekyll
 
 ## Education
 
 ### University of Illinois at Urbana-Champaign - 2010 -- 2011
 
 Completed a semester as an East Asian Languages major, with a 4.0 GPA in Japanese.
+
+## Links
+
+**Github:** <http://www.github.com/liliff>  
+**LinkedIn:** <http://www.linkedin.com/in/musee>
