@@ -9,37 +9,39 @@ Chicago, IL 60608
 
 An entry-level position in systems administration or software development.
 
-## Work Experience
+## Employment
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
 
 #### Systems Administrator - June 2011 to July 2012
 
 * Resolved hundreds of web hosting-related issues per week through a support ticket system.  
-* Filed bug reports and wrote wiki documentation internally.
+* Internally filed bug reports and wrote documentation for internal wikis and knowledgebase.
 
 #### Systems Monitoring - December 2011 to July 2012
 
 * Proactively monitored >4500 servers, using Zabbix, in a small team for 
-abnormal load, user abuse, hardware health, and network connectivity/attacks.  
+abnormal load, user abuse, hardware health, network connectivity and attacks, 
+and broken configurations.  
 * Wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
-on our [network status forums](http://forums.hostgator.com/network-status-f14.html) 
+on HostGator's [network status forums](http://forums.hostgator.com/network-status-f14.html) 
 for extended downtime issues.
 
-## Volunteer Experience
+## Volunteering
 
 ### [Commie Subs](http://commiesubs.com) - Remote
 
 #### Developer - June 2012 -- present
 
 * Wrote a showtime and volunteer tracking application using the [Slim Framework](http://slimframework.com).  
-* I write scripts and applications as needed to help everyone's productivity.
+* I write scripts and applications as needed to boost everyone's productivity.
 
 ### [Knights of Reason](http://knightsofreason.net) - Remote
 
 #### Moderator/System Administrator - March 2008 -- present
 
-* I moderate(d) the KoRx game servers and KoR forums as well as co-manage the server.
+* I moderate(d) the KoRx game servers and KoR community as well as set up events.  
+* I co-manage the server and am the primary contact for technical issues.
 
 ### [The Bike Project of Urbana-Champaign](http://thebikeproject.org) - Urbana, IL
 
