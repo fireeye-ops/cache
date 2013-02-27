@@ -43,15 +43,16 @@
 }
 
 % 1 2  <-Use this to define your schools, companies, and organisations.
-% 3 4  <|--- formatted in this manner
 \newenvironment{entity}[2]{%
     \textbf{#1}\hfill #2\par
-}{% the empty line above is required to keep from eating a character
-    \vspace{0.3em}%
+}{
+    \vspace{0.1em}%
     \par%
 }
 \newenvironment{position}[2]{%
-    \ifthenelse{\not\equal{#1}{}\or\not\equal{#2}{}}{#1\hfill#2\par}
+    \ifthenelse{\not\equal{#1}{}\or\not\equal{#2}{}}{\textsl{#1}\hfill#2\par}
+}{
+    \vspace{0.3em}%
 }
 
 \begin{document}

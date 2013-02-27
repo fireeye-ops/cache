@@ -1,24 +1,25 @@
 #!/bin/bash
 SRC="resume.md"
-OUT="resume.tex"
+TEX="resume.tex"
+OUT="resume.pdf"
 
 check_entity() {
     if [[ $open_entity ]]; then
         unset open_entity
-        echo >> $OUT
-        echo "    \end{entity}" >> $OUT
+        echo >> $TEX
+        echo "    \end{entity}" >> $TEX
     fi
 }
 check_position() {
     if [[ $open_position ]]; then
         unset open_position
-        echo >> $OUT
-        echo "        \end{position}" >> $OUT
+        echo >> $TEX
+        echo "        \end{position}" >> $TEX
     fi
 }
 
-cat header.tex > $OUT
-sed -i s/@@moddate@@/$(date +%Y.%m.%d)/ $OUT
+cat header.tex > $TEX
+sed -i s/@@moddate@@/$(date +%Y.%m.%d)/ $TEX
 
 name=$(sed -n '1p' $SRC)
 name=${name:2}
@@ -30,52 +31,58 @@ website=$(sed -n '4p' $SRC)
 website=${website:8:-3}
 location=$(sed -n '5p' $SRC)
 location=${location:0:-2}
-sed -i s/@@name@@/"$name"/ $OUT
-sed -i s/@@email@@/"$email"/ $OUT
-sed -i s/@@phone@@/"$phone"/ $OUT
-sed -i s%@@website@@%"$website"% $OUT
-sed -i s/@@location@@/"$location"/ $OUT
+sed -i s/@@name@@/"$name"/ $TEX
+sed -i s/@@email@@/"$email"/ $TEX
+sed -i s/@@phone@@/"$phone"/ $TEX
+sed -i s%@@website@@%"$website"% $TEX
+sed -i s/@@location@@/"$location"/ $TEX
 
-while read line
+while IFS='' read line
 do
     if [[ $line =~ ^##\  ]]; then
         check_position
         check_entity
-        echo >> $OUT
-        echo $line | sed -r 's/^## (.*)/\\section{\1}/g' >> $OUT
+        echo $line | sed -r 's/^## (.*)/\\section{\1}/g' >> $TEX
     elif [[ $line =~ ^###\  ]]; then
+        check_position
         check_entity
         echo $line | grep " - " >/dev/null
         if [[ $? == 0 ]]; then
-            echo $line | sed -r 's/^### (.*) - (.*)/    \\begin{entity}{\1}{\2}/' >> $OUT
+            echo $line | sed -r 's/^### (.*) - (.*)/    \\begin{entity}{\1}{\2}/' >> $TEX
         else
-            echo $line | sed -r 's/^### (.*)/    \\begin{entity}{\1}{}/' >> $OUT
+            echo $line | sed -r 's/^### (.*)/    \\begin{entity}{\1}{}/' >> $TEX
         fi
         open_entity=1
     elif [[ $line =~ ^####\  ]]; then
         check_position
         echo "$line" | grep - > /dev/null
         if [[ $? == 0 ]]; then
-            echo $line | sed -r 's/^#### (.*) - (.*)/        \\begin{position}{\1}{\2}/' >> $OUT
+            echo $line | sed -r 's/^#### (.*) - (.*)/        \\begin{position}{\1}{\2}/' >> $TEX
         else
-            echo $line | sed -r 's/^#### (.*)/        \\begin{position}{\1}{}/' >> $OUT
+            echo $line | sed -r 's/^#### (.*)/        \\begin{position}{\1}{}/' >> $TEX
         fi
-        echo >> $OUT
         open_position=1
     elif [[ $line == "" ]]; then
-        continue
+        echo >> $TEX
     else
-        echo $line >> $OUT
+        echo -n "$line" | sed 's/  $/\\par\n/' >> $TEX
     fi
+    sed -i -r 's|\[(.*)\]\((.*)\)|\\href{\2}{\1}|g' $TEX
 done < <(tail -n+8 $SRC)
 
 check_position
 check_entity
-echo >> $OUT
-echo "\end{document}" >> $OUT
+echo >> $TEX
+echo "\end{document}" >> $TEX
 
-sed -i 's/&#42;/*/' $OUT
-sed -i -r 's|\[(.*)\]\((.*)\)|\\href{\2}{\1}|g' $OUT
+sed -i -r 's/\*\*(.*)\*\*/\\textbf{\1}/g' $TEX
+sed -i -r 's/\*(.*)\*/\\textsl{\1}/g' $TEX
+sed -i 's/&#42;/*/' $TEX
+sed -i 's/>/$>$/g' $TEX
+sed -i 's/^* /-- /g' $TEX
+
+pdflatex -interaction=nonstopmode -file-line-error -halt-on-error -shell-escape -output-directory=/tmp $TEX
+mv "/tmp/${TEX%.tex}.pdf" "$OUT"
 
 #!/bin/bash
 #rdiscount resume.md > resume-working.html
