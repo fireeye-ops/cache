@@ -78,6 +78,7 @@ echo "\end{document}" >> $TEX
 sed -i -r 's/\*\*(.*)\*\*/\\textbf{\1}/g' $TEX
 sed -i -r 's/\*(.*)\*/\\textsl{\1}/g' $TEX
 sed -i 's/&#42;/*/' $TEX
+sed -i 's/LaTeX/\\LaTeX/' $TEX
 sed -i 's/>/$>$/g' $TEX
 sed -i 's/^* /-- /g' $TEX
 
