@@ -1,6 +1,5 @@
-Tis...my resume, in Markdown.
+Tis...my resume, in Markdown, with a bash script to convert it to LaTeX and then to PDF.
 
-
-I'm using the static wkhtmltopdf binary here:
+Previously, I used the static wkhtmltopdf binary here for HTML to PDF:
 
 http://wkhtmltopdf.googlecode.com/files/wkhtmltopdf-0.9.9-static-amd64.tar.bz2
