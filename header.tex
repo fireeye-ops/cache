@@ -1,0 +1,58 @@
+% Author: liliff
+% created: 2011.04.08
+% modified: @@moddate@@
+
+\documentclass{article}
+% packages that come with TeXLive
+\usepackage[letterpaper,margin=1in,lmargin=2in]{geometry}
+\usepackage[sf,tiny,compact]{titlesec}
+\usepackage{ifthen}
+\usepackage{hyperref}
+
+\newcommand{\name}	{@@name@@}
+\newcommand{\phone}	{@@phone@@}
+\newcommand{\email}	{@@email@@}
+\newcommand{\web}	{\url{@@website@@}}
+\newcommand{\location}	{@@location@@}
+
+\pagestyle{empty} % remove header/footer content (page numbers)
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0cm} % vertical space between paragraphs
+\setcounter{secnumdepth}{0} % don't number sections
+
+\newcommand{\sectionstyle}{\bfseries} % define font of sections 
+\titleformat{\section}[leftmargin]{\titlerule*[0.2em]{\bfseries\_}%
+  \vspace{4pt}\filleft}{\thesection}{5em}{\sectionstyle}
+% The X can be replaced with any other character or string. It
+% designs the "separator" before sections. Play with it.
+% The characters | . _ - and * seem most desirable.
+\titlespacing{\section}{0.8in}{1.5ex plus .1ex minus .2ex}{0.2in}
+% First argument, width of the text space; second, vertical space
+% above text; third, space between text and resume content
+
+% this makes the title. various formatting stuff involved.
+\newcommand{\makeheader}{%
+  {\Large\bf\name}\hfill{}{\textsc{\location}\par}% name and location
+  {\setlength{\baselineskip}{0in}\rule[-0.5mm]{\textwidth}{0.5pt}\par}%
+  {\hspace{\stretch{3}}%
+    \textsl{web:} \web\hspace{\stretch{1}}%
+    \textsl{email:} \email\hspace{\stretch{1}}%
+    \textsl{phone:} \phone\hspace{0.5em}%
+  }%
+  \vspace{0.5em}%
+}
+
+% 1 2  <-Use this to define your schools, companies, and organisations.
+% 3 4  <|--- formatted in this manner
+\newenvironment{entity}[2]{%
+    \textbf{#1}\hfill #2\par
+}{% the empty line above is required to keep from eating a character
+    \vspace{0.3em}%
+    \par%
+}
+\newenvironment{position}[2]{%
+    \ifthenelse{\not\equal{#1}{}\or\not\equal{#2}{}}{#1\hfill#2\par}
+}
+
+\begin{document}
+\makeheader
