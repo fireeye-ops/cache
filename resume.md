@@ -42,7 +42,7 @@ for extended downtime issues.
 #### Moderator/System Administrator - March 2008 -- present
 
 * I moderate(d) the KoRx game servers and KoR community and organize events.  
-* I co-manage the server and am the primary contact for technical issues.
+* I co-manage and maintain wiki documentation for the server and am the primary contact for technical issues.
 
 ### [The Bike Project of Urbana-Champaign](http://thebikeproject.org) - Urbana, IL
 
