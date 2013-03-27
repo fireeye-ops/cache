@@ -7,7 +7,7 @@ Chicago, IL 60608
 
 ## Objective
 
-An entry-level position in systems administration or software development.
+An entry- or mid-level position in systems administration or software development.
 
 ## Employment
 
