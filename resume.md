@@ -55,11 +55,11 @@ for use at the shops, and managed membership information.
 
 ### [ZMonitor](https://github.com/liliff/zmonitor)
 
-Console client for the Zabbix monitoring suite, developed in Ruby. It 
-interfaces with the Zabbix API using JSON for gathering current active 
-triggers and acknowledging events. It basically provides a CLI dashboard, 
-a method to easily acknowledge several related alerts, and one to feed 
-output to other applications.
+Terminal dashboard developed in Ruby for the Zabbix monitoring suite. 
+Configured in YAML, it uses JSON to retrieve active alerts and answer 
+them with the Zabbix API. Known for mass pattern-based (using regex) 
+acknowledgement (useful during network failures) and alternative 
+plaintext output for piping or copying.
 
 ## Skills
 
