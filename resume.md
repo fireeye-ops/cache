@@ -76,8 +76,6 @@ output to other applications.
 
 ### University of Illinois at Urbana-Champaign - 2010 -- 2011
 
-Completed a semester as an East Asian Languages major, with a 4.0 GPA in Japanese.
-
 ## Links
 
 **Github:** <http://www.github.com/liliff>  
