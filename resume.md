@@ -7,7 +7,7 @@ Chicago, IL 60608
 
 ## Objective
 
-An entry- or mid-level position in systems administration or software development.
+An entry-level position in systems administration or software development.
 
 ## Employment
 
@@ -42,14 +42,13 @@ for extended downtime issues.
 #### Moderator/System Administrator - March 2008 -- present
 
 * I moderate(d) the KoRx game servers and KoR community and organize events.  
-* I co-manage and maintain wiki documentation for the server and am the primary contact for technical issues.
+* I co-manage and maintain documentation for the server and am the primary contact for technical issues.
 
 ### [The Bike Project of Urbana-Champaign](http://thebikeproject.org) - Urbana, IL
 
 #### Bike Mechanic/Technologist - August 2010 to February 2011
 
-* Assisted visitors with bicycle repair/building, repurposed old laptops 
-for use at the shops, and managed membership information.
+* Repurposed old laptops with Debian for use at the shops, and managed membership data.
 
 ## Projects
 
