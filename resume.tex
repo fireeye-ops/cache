@@ -1,16 +1,19 @@
 % Author: liliff
 % created: 2011.04.08
-% modified: 2013.03.27
+% modified: 2013.03.30
 
 \documentclass{article}
 % packages that come with TeXLive
-\usepackage[letterpaper,margin=1in,lmargin=2in]{geometry}
+\usepackage[letterpaper,margin=1in,lmargin=1.5in,rmargin=.75in]{geometry}
 \usepackage[sf,tiny,compact]{titlesec}
 \usepackage{ifthen}
+\usepackage{relsize}
 \usepackage[pdfborderstyle={/S/U/W 0.5},allbordercolors={0.8 0 0}]{hyperref}
+\urlstyle{same}
+\renewcommand{\familydefault}{\sfdefault}
 
 \newcommand{\name}	{Musee Ullah}
-\newcommand{\phone}	{+1 408 686 9736}
+\newcommand{\phone}	{1 408 686 9736}
 \newcommand{\email}	{milkteafuzz@gmail.com}
 \newcommand{\web}	{\url{milkteafuzz.com}}
 \newcommand{\location}	{Chicago, IL 60608}
@@ -32,12 +35,12 @@
 
 % this makes the title. various formatting stuff involved.
 \newcommand{\makeheader}{%
-  {\Large\bf\name}\hfill{}{\textsc{\location}\par}% name and location
+  {\Large\bf\name}\hfill{}{\location\par}% name and location
   {\setlength{\baselineskip}{0in}\rule[-0.5mm]{\textwidth}{0.5pt}\par}%
   {\hspace{\stretch{3}}%
-    \textsl{web:} \web\hspace{\stretch{1}}%
-    \textsl{email:} \email\hspace{\stretch{1}}%
-    \textsl{phone:} \phone\hspace{0.5em}%
+    web: \web\hspace{\stretch{1}}%
+    email: \email\hspace{\stretch{1}}%
+    phone: \texttt{+}\phone\hspace{0.5em}%
   }%
   \vspace{0.5em}%
 }
