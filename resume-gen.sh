@@ -17,6 +17,12 @@ check_position() {
         echo "        \end{position}" >> $TEX
     fi
 }
+check_itemize() {
+    if [[ $open_itemize ]]; then
+        unset open_itemize
+        echo "\end{itemize}" >> $TEX
+    fi
+}
 
 cat header.tex > $TEX
 sed -i s/@@moddate@@/$(date +%Y.%m.%d)/ $TEX
@@ -40,10 +46,12 @@ sed -i s/@@location@@/"$location"/ $TEX
 while IFS='' read line
 do
     if [[ $line =~ ^##\  ]]; then
+        check_itemize
         check_position
         check_entity
         echo $line | sed -r 's/^## (.*)/\\section{\1}/g' >> $TEX
     elif [[ $line =~ ^###\  ]]; then
+        check_itemize
         check_position
         check_entity
         echo $line | grep " - " >/dev/null
@@ -54,6 +62,7 @@ do
         fi
         open_entity=1
     elif [[ $line =~ ^####\  ]]; then
+        check_itemize
         check_position
         echo "$line" | grep - > /dev/null
         if [[ $? == 0 ]]; then
@@ -62,14 +71,22 @@ do
             echo $line | sed -r 's/^#### (.*)/        \\begin{position}{\1}{}/' >> $TEX
         fi
         open_position=1
+    elif [ "`echo "$line" | grep -c '^  - '`" -eq "1" ]; then
+        if [[ ! $open_itemize ]]; then
+            open_itemize=1
+            echo '\begin{itemize}' >> $TEX
+        fi
+        echo "$line" | sed -r 's/^  - (.*)/    \\item \1/' >> $TEX
     elif [[ $line == "" ]]; then
         echo >> $TEX
     else
+        check_itemize
         echo -n "$line" | sed 's/  $/\\par\n/' >> $TEX
     fi
     sed -i -r 's|\[(.*)\]\((.*)\)|\\href{\2}{\1}|g' $TEX
 done < <(tail -n+8 $SRC)
 
+check_itemize
 check_position
 check_entity
 echo >> $TEX

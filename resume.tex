@@ -9,8 +9,11 @@
 \usepackage{ifthen}
 \usepackage{relsize}
 \usepackage[pdfborderstyle={/S/U/W 0.5},allbordercolors={0.8 0 0}]{hyperref}
+\usepackage{enumitem}
+\setlist{nolistsep}
 \urlstyle{same}
 \renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\labelitemi}{$\circ$}
 
 \newcommand{\name}	{Musee Ullah}
 \newcommand{\phone}	{1 408 686 9736}
@@ -70,10 +73,12 @@ An entry-level position in systems administration or software development.
         \begin{position}{Systems Administrator}{June 2011 to July 2012}
 
 -- Resolved hundreds of Linux-related issues per week through a support ticket system, including:\par
-  - PHP/MySQL/Rails/website/application errors and issues\par
-  - Backups and restorations, using customer provided tarballs or rsync from NAS backup appliances\par
-  - Reboot triage and server tuning (particularly MySQL/Percona and Apache)\par
-  - Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, etc.)\par
+\begin{itemize}
+    \item PHP/MySQL/Rails/website/application errors and issues  
+    \item Backups and restorations, using customer provided tarballs or rsync from NAS backup appliances  
+    \item Reboot triage and server tuning (particularly MySQL/Percona and Apache)  
+    \item Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, etc.)  
+\end{itemize}
 -- Filed internal bug reports and wrote documentation for HG's wikis and knowledgebase.
 
         \end{position}
@@ -81,10 +86,12 @@ An entry-level position in systems administration or software development.
 
 -- Monitored $>$4500 servers, using Zabbix (and ZMonitor), in a small team to maintain quality service.\par
 -- A typical week consisted of:\par
-  - Reducing abnormal load and user abuse (rogue scripts, spam, hacked accounts)\par
-  - Checking and reporting hardware health (disk usage, filesystem status, drive swaps, RAID health)\par
-  - Restoring network connectivity and deflecting attacks (UDP/SYN floods, Slowloris)\par
-  - And correcting broken configurations (network, services).\par
+\begin{itemize}
+    \item Reducing abnormal load and user abuse (rogue scripts, spam, hacked accounts)  
+    \item Checking and reporting hardware health (disk usage, filesystem status, drive swaps, RAID health)  
+    \item Restoring network connectivity and deflecting attacks (UDP/SYN floods, Slowloris)  
+    \item And correcting broken configurations (network, services).  
+\end{itemize}
 -- Wrote \href{http://forums.hostgator.com/search.php?do=finduser&u=126179}{public announcements} on HG's \href{http://forums.hostgator.com/network-status-f14.html}{network status forums} for extended downtime issues.\par
 -- Assisted a Level 3 administrator in migrating the farm from 32bit to 64bit.
 
