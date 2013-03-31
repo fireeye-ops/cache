@@ -15,14 +15,21 @@ An entry-level position in systems administration or software development.
 
 #### Systems Administrator - June 2011 to July 2012
 
-* Resolved hundreds of web hosting-related and dedicated server/VPS issues 
-per week through a support ticket system.  
+* Resolved hundreds of Linux-related issues per week through a support ticket system, including:  
+  - PHP/MySQL/Rails/website/application errors and issues  
+  - Backups and restorations, using customer provided tarballs or rsync from NAS backup appliances  
+  - Reboot triage and server tuning (particularly MySQL/Percona and Apache)  
+  - Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, etc.)  
 * Filed internal bug reports and wrote documentation for HG's wikis and knowledgebase.
 
 #### Systems Monitoring - December 2011 to July 2012
 
-* Monitored >4500 servers, using Zabbix, in a small team for abnormal load, 
-user abuse, hardware health, network connectivity and attacks, and broken configurations.  
+* Monitored >4500 servers, using Zabbix (and ZMonitor), in a small team to maintain quality service.  
+* A typical week consisted of:  
+  - Reducing abnormal load and user abuse (rogue scripts, spam, hacked accounts)  
+  - Checking and reporting hardware health (disk usage, filesystem status, drive swaps, RAID health)  
+  - Restoring network connectivity and deflecting attacks (UDP/SYN floods, Slowloris)  
+  - And correcting broken configurations (network, services).  
 * Wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
 on HG's [network status forums](http://forums.hostgator.com/network-status-f14.html) 
 for extended downtime issues.  
