@@ -75,6 +75,9 @@ Typing Speed: 50-110 wpm
 
 ### University of Illinois at Urbana-Champaign - 2010 -- 2011
 
+### Grand Prairie High School - 2006 -- 2010
+3.8 GPA (4.6 weighted); magna cum laude; 5s on AP Calculus AB+BC, 4s on AP Psychology+Statistics.
+
 ## Links
 
 **Github:** <http://www.github.com/liliff>  
