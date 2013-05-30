@@ -3,6 +3,12 @@ SRC="resume.md"
 TEX="resume.tex"
 OUT="resume.pdf"
 
+if [ ! -z $1 ]; then
+    SRC="$1"
+    TEX="${1%.md}.tex"
+    OUT="${1%.md}.pdf"
+fi
+
 check_entity() {
     if [[ $open_entity ]]; then
         unset open_entity
@@ -92,7 +98,7 @@ check_entity
 echo >> $TEX
 echo '\\' >> $TEX
 echo '\\' >> $TEX
-echo "\textsl{Source:} \url{https://raw.github.com/liliff/resume/master/resume.md}" >> $TEX
+echo "\textsl{Source:} \url{https://raw.github.com/liliff/resume/master/$SRC}" >> $TEX
 echo "\end{document}" >> $TEX
 
 sed -i -r 's/\*\*(.*)\*\*/\\textbf{\1}/g' $TEX
