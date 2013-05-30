@@ -37,7 +37,7 @@ for extended downtime issues.
 
 ## Volunteering
 
-### [Commie Subs](http://commiesubs.com) - Remote
+### Commie Subs - Remote
 
 #### Developer - June 2012 -- present
 
@@ -72,8 +72,8 @@ plaintext output for piping or copying.
 **OS/Distros:** CentOS, Arch Linux, Gentoo Linux, Debian, Windows XP  
 **Code:** Bash; Slight experience with PHP, Ruby, Python and Javascript  
 **Markup:** Markdown, HTML, CSS, YAML, LaTeX, JSON  
-**HTTP:** Lighttpd, Apache, nginx  
-**Database:** MySQL, Redis, MongoDB  
+**HTTP:** Apache, nginx, small appservers incl. Thin (Ruby) and Gunicorn (Python)  
+**Database:** MySQL, Some dabblings in Redis and MongoDB  
 **Monitoring:** Zabbix, sysstat, IPMI, tcpdump/ngrep, iptables  
 **Package Managers:** portage, pacman, apt  
 **Miscellaneous:** cPanel/WHM, Git, LAMP, Compilation, Jekyll
