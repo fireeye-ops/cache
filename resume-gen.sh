@@ -89,7 +89,7 @@ do
         check_itemize
         echo -n "$line" | sed 's/  $/\\par\n/' >> $TEX
     fi
-    sed -i -r 's|\[(.*)\]\((.*)\)|\\href{\2}{\1}|g' $TEX
+    perl -pi -e 's|\[(.*?)\]\((.*?)\)|\\href{\2}{\1}|g' $TEX
 done < <(tail -n+8 $SRC)
 
 check_itemize
