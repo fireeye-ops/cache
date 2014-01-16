@@ -1,6 +1,6 @@
 % Author: liliff
 % created: 2011.04.08
-% modified: 2013.05.30
+% modified: 2014.01.16
 
 \documentclass{article}
 % packages that come with TeXLive
@@ -18,7 +18,7 @@
 \newcommand{\name}	{Musee Ullah}
 \newcommand{\phone}	{1 408 686 9736}
 \newcommand{\email}	{milkteafuzz@gmail.com}
-\newcommand{\web}	{\url{milkteafuzz.com}}
+\newcommand{\web}	{\url{milk.tea.jp}}
 \newcommand{\location}	{Chicago, IL 60608}
 
 \pagestyle{empty} % remove header/footer content (page numbers)
@@ -65,21 +65,32 @@
 \makeheader
 \section{Objective}
 
-An entry-level position in systems administration or software development.
+An entry-level position in sysadmin/devops.
 \section{Employment}
 
+    \begin{entity}{\href{http://sleepygiant.com}{Sleepy Giant Entertainment}}{Chicago, IL}
+
+        \begin{position}{Systems Engineer}{July 2013 and ongoing}
+
+- Monitored game servers for outages, issues.\par
+- Introduced to Chef and various devops workflow tools.\par
+- Created a few internal scripts/tools, Dash for instance.\par
+
+
+        \end{position}
+
+    \end{entity}
     \begin{entity}{\href{http://hostgator.com}{HostGator.Com, LLC}}{Austin, TX}
 
         \begin{position}{Systems Administrator}{June 2011 to July 2012}
 
--- Resolved hundreds of Linux-related issues per week through a support ticket system, including:\par
-\begin{itemize}
+-- Primarily help desk support - dealt with issues like:\begin{itemize}
     \item PHP/MySQL/Rails/website/application errors and issues  
     \item Backups and restorations, using customer provided tarballs or rsync from NAS backup appliances  
     \item Reboot triage and server tuning (particularly MySQL/Percona and Apache)  
     \item Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, etc.)  
 \end{itemize}
--- Filed internal bug reports and wrote documentation for HG's wikis and knowledgebase.
+-- Filed internal bug reports and wrote documentation for company wikis and knowledgebase.
 
         \end{position}
         \begin{position}{Systems Monitoring}{December 2011 to July 2012}
@@ -92,66 +103,39 @@ An entry-level position in systems administration or software development.
     \item Restoring network connectivity and deflecting attacks (UDP/SYN floods, Slowloris)  
     \item And correcting broken configurations (network, services).  
 \end{itemize}
--- Wrote \href{http://forums.hostgator.com/search.php?do=finduser&u=126179}{public announcements} on HG's \href{http://forums.hostgator.com/network-status-f14.html}{network status forums} for extended downtime issues.\par
+-- Wrote \href{http://forums.hostgator.com/search.php?do=finduser&u=126179}{public announcements} on the \href{http://forums.hostgator.com/network-status-f14.html}{network status forums} for extended downtime issues.\par
 -- Assisted a Level 3 administrator in migrating the farm from 32bit to 64bit.
 
         \end{position}
 
     \end{entity}
+    \begin{entity}{Contracted Positions}{}
+
+-- \href{http://batee.com}{\textbf{batee.com}} - site redesign using bootstrap (by request); uses jekyll for site generation
+
+    \end{entity}
 \section{Volunteering}
 
-    \begin{entity}{Commie Subs}{Remote}
+-- \href{http://knightsofreason.net}{\textbf{Knights of Reason}} - primary contact for technical issues, server owner/co-admin, forum moderator. (\href{https://wiki.milkteafuzz.com}{server documentation})\par
+-- \href{http://thebikeproject.org}{\textbf{The Bike Project of Urbana-Champaign}} (Urbana, IL, 8/2010-2/2011) - bike mechanic and technologist, e.g. repurposed old laptops with Debian for use at the shop.\par
 
-        \begin{position}{Developer}{June 2012 -- present}
+\section{Projects / One-Offs}
 
--- Wrote a showtime and volunteer tracking application using the \href{http://slimframework.com}{Slim Framework}.\par
--- I write scripts and applications that let volunteers be a little more lazy.
+-- \href{https://github.com/liliff/zmonitor}{\textbf{ZMonitor}} - cli dashboard for zabbix written in ruby\par
+-- \href{https://github.com/liliff/wagnaria}{\textbf{Wagnaria}} - fansubbing organisation tool written in python and angularjs (\href{https://c.milkteafuzz.com/index.html}{copy of it in production})\par
+-- \href{http://ip.milk.tea.jp}{\textbf{IP Lookup}} - single page app written in angularjs to map a geolocated IP\par
+-- \textbf{Dash} - ruby/rack dashboard for nagios with angularjs frontend\par
 
-        \end{position}
+\section{Familiarities / Preference}
 
-    \end{entity}
-    \begin{entity}{\href{http://knightsofreason.net}{Knights of Reason}}{Remote}
+\textbf{distros}: arch linux, centos, debian\par
+\textbf{lang}: bash, ruby, python; markdown, json\par
+\textbf{apps}: nginx, mysql, mongodb, etherpad, chef\par
+\textbf{workflow}: git, vim, i3wm, remmina, vagrant, did I mention bash (scripts)?\par
 
-        \begin{position}{Moderator/System Administrator}{March 2008 -- present}
-
--- I moderate(d) the KoRx game servers and KoR community and organize events.\par
--- I co-manage and maintain documentation for the server and am the primary contact for technical issues.
-
-        \end{position}
-
-    \end{entity}
-    \begin{entity}{\href{http://thebikeproject.org}{The Bike Project of Urbana-Champaign}}{Urbana, IL}
-
-        \begin{position}{Bike Mechanic/Technologist}{August 2010 to February 2011}
-
--- Repurposed old laptops with Debian for use at the shops, and managed membership data.
-
-        \end{position}
-
-    \end{entity}
-\section{Projects}
-
-    \begin{entity}{\href{https://github.com/liliff/zmonitor}{ZMonitor}}{}
-
-Terminal dashboard developed in Ruby for the Zabbix monitoring suite. Configured in YAML, it uses JSON to retrieve active alerts and answer them with the Zabbix API. Known for mass pattern-based (using regex) acknowledgement (useful during network failures) and alternative plaintext output for piping or copying.
-
-    \end{entity}
-\section{Skills}
-
-\textbf{OS/Distros:} CentOS, Arch Linux, Gentoo Linux, Debian, Windows XP\par
-\textbf{Code:} Bash; Slight experience with PHP, Ruby, Python and Javascript\par
-\textbf{Markup:} Markdown, HTML, CSS, YAML, \LaTeX, JSON\par
-\textbf{HTTP:} Apache, nginx, small appservers incl. Thin (Ruby) and Gunicorn (Python)\par
-\textbf{Database:} MySQL, Some dabblings in Redis and MongoDB\par
-\textbf{Monitoring:} Zabbix, sysstat, IPMI, tcpdump/ngrep, iptables\par
-\textbf{Package Managers:} portage, pacman, apt\par
-\textbf{Miscellaneous:} cPanel/WHM, Git, LAMP, Compilation, Jekyll
 \section{Education}
 
-    \begin{entity}{University of Illinois at Urbana-Champaign}{2010 -- 2011}
-
-
-    \end{entity}
+\textbf{University of Illinois at Urbana-Champaign} - 2010 -- 2011 - East Asian Languages and Cultures
 \section{Links}
 
 \textbf{Github:} \url{www.github.com/liliff}\par

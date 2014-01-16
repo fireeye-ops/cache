@@ -1,7 +1,6 @@
 # Musee Ullah
 
 <milkteafuzz@gmail.com>  
-<http://milkteafuzz.com>  
 Chicago, IL 60608  
 +1 408 686 9736  
 
