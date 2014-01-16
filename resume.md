@@ -1,7 +1,7 @@
 # Musee Ullah
 
 <milkteafuzz@gmail.com>  
-<http://milk.tea.jp>  
+<http://milkteafuzz.com>  
 Chicago, IL 60608  
 +1 408 686 9736  
 
@@ -54,10 +54,11 @@ for extended downtime issues.
 
 ## Projects / One-Offs
 
-* [**ZMonitor**](https://github.com/liliff/zmonitor) - cli dashboard for zabbix written in ruby  
-* [**Wagnaria**](https://github.com/liliff/wagnaria) - fansubbing organisation tool written in python and angularjs ([copy of it in production](https://c.milkteafuzz.com/index.html))  
-* [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs to map a geolocated IP  
-* **Dash** - ruby/rack dashboard for nagios with angularjs frontend  
+* [**ZMonitor**](https://github.com/liliff/zmonitor) - cli dashboard for zabbix written in ruby.  
+* [**Wagnaria**](https://github.com/liliff/wagnaria) - fansubbing organisation tool written in python and angularjs ([copy of it in production](https://c.milkteafuzz.com/index.html)).  
+* [**Showtimes**](https://github.com/liliff/showtimes) - the original version of the above, but written in PHP using the Slim framework.  
+* [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs to map a geolocated IP.  
+* **Dash** - ruby/rack dashboard for nagios with angularjs frontend.  
 
 ## Familiarities / Preferences
 
