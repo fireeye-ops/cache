@@ -59,7 +59,7 @@ for extended downtime issues.
 * [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs to map a geolocated IP  
 * **Dash** - ruby/rack dashboard for nagios with angularjs frontend  
 
-## Familiarities / Preference
+## Familiarities / Preferences
 
 **distros**: arch linux, centos, debian  
 **lang**: bash, ruby, python; markdown, json  
