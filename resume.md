@@ -7,7 +7,7 @@ Chicago, IL 60608
 
 ## Objective
 
-An entry-level position in sysadmin/devops.
+A mid-level position in system administration or automation (devops).
 
 ## Employment
 
@@ -18,6 +18,7 @@ An entry-level position in sysadmin/devops.
 - Monitored game servers for outages, issues.  
 - Introduced to Chef and various devops workflow tools.  
 - Created a few internal scripts/tools, Dash for instance.  
+- Introduced Docker into unit testing workflows.  
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
 
@@ -49,6 +50,7 @@ for extended downtime issues.
 
 ## Volunteering
 
+* [**Simple Mona**](http://simplemona.com) - sole administrator of this pool for the Monacoin cryptocurrency - [development ongoing](https://github.com/liliff/simplemona)  
 * [**Knights of Reason**](http://knightsofreason.net) - primary contact for technical issues, server owner/co-admin, forum moderator. ([server documentation](https://wiki.milkteafuzz.com))  
 * [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org) (Urbana, IL, 8/2010-2/2011) - bike mechanic and technologist, e.g. repurposed old laptops with Debian for use at the shop.  
 
@@ -64,7 +66,7 @@ for extended downtime issues.
 
 **distros**: arch linux, centos, debian  
 **lang**: bash, ruby, python; markdown, json  
-**apps**: nginx, mysql, mongodb, etherpad, chef  
+**apps**: nginx, mysql, mongodb, rabbitmq, etherpad, chef  
 **workflow**: git, vim, i3wm, remmina, vagrant, did I mention bash (scripts)?  
 
 ## Education

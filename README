@@ -1,5 +1,4 @@
 Tis...my resume, in Markdown, with a bash script to convert it to LaTeX and then to PDF.
 
-Previously, I used the static wkhtmltopdf binary here for HTML to PDF:
-
-http://wkhtmltopdf.googlecode.com/files/wkhtmltopdf-0.9.9-static-amd64.tar.bz2
+TODO:
+Rework a new layout for resume, maybe without LaTeX (e.g. html tables+css)
