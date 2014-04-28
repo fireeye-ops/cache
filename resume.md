@@ -15,10 +15,12 @@ A mid-level position in system administration or automation (devops).
 
 #### Systems Engineer - July 2013 and ongoing
 
-- Monitored game servers for outages, issues.  
-- Introduced to Chef and various devops workflow tools.  
+- Monitored game backend servers for outages, issues.  
+- Worked with Chef and various devops workflow tools primarily for [FoFoFum](http://fofofum.com).  
 - Created a few internal scripts/tools, Dash for instance.  
 - Introduced Docker into unit testing workflows.  
+- Introduced Elastic Beanstalk for WordPress installations.~~
+- Performed a security audit for the Heartbleed vulnerability.
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
 
