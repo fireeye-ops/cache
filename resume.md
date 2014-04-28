@@ -17,7 +17,7 @@ A mid-level position in system administration or automation (devops).
 
 - Monitored game backend servers for outages, issues.  
 - Worked with Chef and various devops workflow tools primarily for [FoFoFum](http://fofofum.com).  
-- Created a few internal scripts/tools, Dash for instance.  
+- Created and modified a few internal Python/Ruby/Bash scripts/tools.  
 - Introduced Docker into unit testing workflows.  
 - Introduced Elastic Beanstalk for WordPress installations.~~
 - Performed a security audit for the Heartbleed vulnerability.
@@ -62,7 +62,6 @@ for extended downtime issues.
 * [**Wagnaria**](https://github.com/liliff/wagnaria) - fansubbing organisation tool written in python and angularjs ([copy of it in production](https://c.milkteafuzz.com/index.html)).  
 * [**Showtimes**](https://github.com/liliff/showtimes) - the original version of the above, but written in PHP using the Slim framework.  
 * [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs to map a geolocated IP.  
-* **Dash** - ruby/rack dashboard for nagios with angularjs frontend.  
 
 ## Familiarities / Preferences
 
