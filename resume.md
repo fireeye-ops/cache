@@ -17,25 +17,15 @@ A mid-level position in system administration or automation (devops).
 
 - Monitored game backend servers for outages, issues.  
 - Worked with Chef and various devops workflow tools primarily for 
-  [FoFoFum](http://fofofum.com).  
+  [FoFoFum](http://fofofum.com). Server environments are mostly AWS EC2/RDS/VPC,
+  but there are several dedicated servers as well.  
 - Created and modified a few internal Python/Ruby/Bash scripts/tools.  
-- Introduced Docker into Jenkins continuous integration workflows.  
-- Introduced Elastic Beanstalk for WordPress installations.~~
+- Introduced Docker into Jenkins continuous integration workflows. Includes
+  changes to a company wrapper cookbook for Jenkins.  
+- Introduced Elastic Beanstalk+S3+RDS for stateless WordPress installations.~~
 - Performed a security audit for the Heartbleed vulnerability.
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
-
-#### Systems Administrator - June 2011 to July 2012
-
-* Primarily help desk support - dealt with issues like:
-  - PHP/MySQL/Rails/website/application errors and issues  
-  - Backups and restorations, using customer provided tarballs or rsync from 
-    NAS backup appliances  
-  - Reboot triage and server tuning (particularly MySQL/Percona and Apache)  
-  - Software upgrades and installations (Apache/PHP modules, Redmine, phpBB, 
-    etc.)  
-* Filed internal bug reports and wrote documentation for company wikis and 
-  knowledgebase.
 
 #### Systems Monitoring - December 2011 to July 2012
 
@@ -51,7 +41,15 @@ A mid-level position in system administration or automation (devops).
 * Wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
   on the [network status forums](http://forums.hostgator.com/network-status-f14.html) 
   for extended downtime issues.  
-* Assisted a Level 3 administrator in migrating the farm from 32bit to 64bit.
+* Assisted a Level 3 administrator in migrating the shared hosting farm from
+  32bit to 64bit.
+
+#### Systems Administrator - June 2011 to July 2012
+
+* Primarily help desk support, handling website/database/application errors and
+  issues, backups/restorations, triage, s/w upgrades and installations.
+* Filed internal bug reports and wrote documentation for company wikis and 
+  knowledgebase.
 
 ### Contracted Positions
 
@@ -63,6 +61,9 @@ A mid-level position in system administration or automation (devops).
 * [**Simple Mona**](http://simplemona.com) - sole administrator of this pool 
   for the Monacoin cryptocurrency - 
   [development ongoing](https://github.com/liliff/simplemona)  
+  - involves administrating a RabbitMQ cluster, developing in Python (Flask),
+    and querying in Postgres  
+  - i18n support, added Japanese translation (by me and a couple native speakers)  
 * [**Knights of Reason**](http://knightsofreason.net) - primary contact for 
   technical issues, server owner/co-admin, forum moderator. 
   ([server documentation](https://wiki.milkteafuzz.com))  
@@ -77,8 +78,6 @@ A mid-level position in system administration or automation (devops).
 * [**Wagnaria**](https://github.com/liliff/wagnaria) - fansubbing organisation 
   tool written in python and angularjs 
   ([copy of it in production](https://c.milkteafuzz.com/index.html)).  
-* [**Showtimes**](https://github.com/liliff/showtimes) - the original version 
-  of the above, but written in PHP using the Slim framework.  
 * [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs 
   to map a geolocated IP.  
 
