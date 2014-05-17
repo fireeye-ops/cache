@@ -22,7 +22,7 @@ A mid-level position in system administration or automation (devops).
 - Created and modified a few internal Python/Ruby/Bash scripts/tools.  
 - Introduced Docker into Jenkins continuous integration workflows. Includes
   changes to a company wrapper cookbook for Jenkins.  
-- Introduced Elastic Beanstalk+S3+RDS for stateless WordPress installations.~~
+- Introduced Elastic Beanstalk+S3+RDS for stateless WordPress installations.  
 - Performed a security audit for the Heartbleed vulnerability.
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
