@@ -13,7 +13,7 @@ A mid-level position in system administration or automation (devops).
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
-#### Systems Engineer - July 2013 and ongoing
+#### Systems Engineer - July 2013 to September 2014
 
 - Monitored game backend servers for outages, issues.  
 - Worked with Chef and various devops workflow tools primarily for 
