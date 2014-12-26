@@ -2,6 +2,7 @@
 
 <arbeiter@lae.is>  
 <https://lae.is>  
+[Github](http://www.github.com/liliff)  
 Chicago, IL 60608  
 (req. # via email please.)
 
@@ -13,55 +14,47 @@ A mid-level position in system administration or automation (devops).
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
+A game infrastructure development company.
+
 #### Systems Engineer - July 2013 to September 2014
 
-- Monitored game backend servers for outages, issues.  
-- Worked with Chef and various devops workflow tools primarily for 
-  [FoFoFum](http://fofofum.com). Server environments are mostly AWS EC2/RDS/VPC,
-  but there are several dedicated servers as well.  
-- Created and modified a few internal Python/Ruby/Bash scripts/tools.  
-- Introduced Docker into Jenkins continuous integration workflows. Includes
-  changes to a company wrapper cookbook for Jenkins.  
-- Introduced Elastic Beanstalk+S3+RDS for stateless WordPress installations.  
-- Performed a security audit for the Heartbleed vulnerability.
+- was introduced to Chef and other automation utilities
+- worked with several Amazon Web Services, including RDS, VPC, Beanstalk
+- replaced part of SG's development cycle with Docker (Jenkins CI)
+- wrote various scripts in Python, Ruby and Bash
+- was responsible for the security audit after the Heartbleed PSA
 
 ### [HostGator.Com, LLC](http://hostgator.com) - Austin, TX
 
+A shared web hosting company who also offers dedicated servers/VMs.
+
 #### Systems Monitoring - December 2011 to July 2012
 
-* Monitored >4500 servers, using Zabbix (and ZMonitor), in a small team to 
-  maintain quality service.  
-* A typical week consisted of:  
-  - Reducing abnormal load and user abuse (rogue scripts, spam, hacked accounts)  
-  - Checking and reporting hardware health (disk usage, filesystem status, 
-    drive swaps, RAID health)  
-  - Restoring network connectivity and deflecting attacks (UDP/SYN floods, 
-    Slowloris)  
-  - And correcting broken configurations (network, services).  
-* Wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
+- monitored >4500 machines remotely (SoftLayer) using Zabbix/ZMonitor
+- dealt with user abuse, compromised clients, broken configurations, and other resource usage issues
+- handled network abuse/issues by either firewall or escalating to SL (UDP/SYN floods, Slowloris)
+- sole assistant from the monitoring team during HG's architecture migration (32->64bit)
+- wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
   on the [network status forums](http://forums.hostgator.com/network-status-f14.html) 
   for extended downtime issues.  
-* Assisted a Level 3 administrator in migrating the shared hosting farm from
-  32bit to 64bit.
 
 #### Systems Administrator - June 2011 to July 2012
 
-* Primarily help desk support, handling website/database/application errors and
-  issues, backups/restorations, triage, s/w upgrades and installations.
-* Filed internal bug reports and wrote documentation for company wikis and 
-  knowledgebase.
+- was primarily help desk support, handling website/database/application errors and
+  issues, backups/restorations, triage, software upgrades and installations.
+- Filed internal bug reports and wrote documentation for company wikis and knowledgebase.
 
 ### Contracted Positions
 
-* [**batee.com**](http://batee.com) - site redesign using bootstrap (by 
-  request); uses jekyll for site generation
+* [**batee.com**](http://batee.com) - site redesign using Bootstrap (by 
+  request); uses Jekyll for site generation
 
 ## Volunteering
 
 * [**Simple Mona**](http://simplemona.com) - sole administrator of this pool 
   for the Monacoin cryptocurrency - 
-  [development ongoing](https://github.com/liliff/simplemona)  
-  - involves administrating a RabbitMQ cluster, developing in Python (Flask),
+  [development halted](https://github.com/liliff/simplemona)  
+  - involved administrating a RabbitMQ cluster, developing in Python (Flask),
     and querying in Postgres  
   - i18n support, added Japanese translation (by me and a couple native speakers)  
 * [**Knights of Reason**](http://knightsofreason.net) - primary contact for 
@@ -73,27 +66,20 @@ A mid-level position in system administration or automation (devops).
 
 ## Projects / One-Offs
 
-* [**ZMonitor**](https://github.com/liliff/zmonitor) - cli dashboard for zabbix 
-  written in ruby.  
-* [**Wagnaria**](https://github.com/liliff/wagnaria) - fansubbing organisation 
-  tool written in python and angularjs 
-  ([copy of it in production](https://c.milkteafuzz.com/index.html)).  
-* [**IP Lookup**](http://ip.milk.tea.jp) - single page app written in angularjs 
-  to map a geolocated IP.  
+* [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix 
+  written in Ruby.  
+* [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation 
+  tool written in Python and Angularjs 
+  ([copy of it in production](https://c.milkteafuzz.com/)).  
 
 ## Familiarities / Preferences
 
 **distros**: arch linux, centos, debian  
 **lang**: bash, ruby, python; markdown, json  
 **apps**: nginx, mysql, mongodb, rabbitmq, etherpad, chef  
-**workflow**: git, vim, i3wm, remmina, vagrant, did I mention bash (scripts)?  
+**workflow**: git, vim, i3wm, remmina, vagrant, bash (x2)
 
 ## Education
 
 **University of Illinois at Urbana-Champaign** - 2010 -- 2011 - East Asian 
   Languages and Cultures
-
-## Links
-
-**Github:** <http://www.github.com/liliff>  
-**LinkedIn:** <http://www.linkedin.com/in/musee>
