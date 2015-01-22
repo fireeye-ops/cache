@@ -18,7 +18,7 @@ A game infrastructure development company.
 
 #### Systems Engineer - July 2013 to September 2014
 
-- was introduced to Chef and other automation utilities
+- orchestrated servers with Chef and other automation utilities
 - worked with several Amazon Web Services, including RDS, VPC, Beanstalk
 - replaced part of SG's development cycle with Docker (Jenkins CI)
 - wrote various scripts in Python, Ruby and Bash
