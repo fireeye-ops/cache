@@ -2,15 +2,30 @@
 
 <arbeiter@lae.is>  
 <https://lae.is>  
-[Github](http://www.github.com/liliff)  
-Chicago, IL 60608  
-(req. # via email please.)
+[Github](http://www.github.com/lae)  
+San Jose, CA
 
 ## Objective
 
-A mid-level position in system administration or automation (devops).
+A senior systems administration position with a heavy focus on automation.
 
 ## Employment
+
+### [FireEye, Inc.](https://fireeye.com) - Milpitas, CA
+
+A cybersecurity company with a renown background in malware detection.
+
+#### Devops Engineer - March 2015, ongoing
+
+- provided infrastructure support for FireEye Labs (R&D), which involved 
+  leading the upbringing of several internal projects to completion in 
+  collaboration with other teams.
+- implemented various services and processes for automating Linux systems in 
+  the various stages of their lifecycle, mainly via ansible but including other 
+  not-yet-public automation software.
+- worked with several distributed systems, including but not limited to Ceph, 
+  Cassandra, and internal FireEye systems.
+- quite a bit more to be honest - to be filled/modified later.
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
@@ -74,10 +89,10 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ## Familiarities / Preferences
 
-**distros**: arch linux, centos, debian  
-**lang**: bash, ruby, python; markdown, json  
-**apps**: nginx, mysql, mongodb, rabbitmq, etherpad, chef  
-**workflow**: git, vim, i3wm, remmina, vagrant, bash (x2)
+**distros**: arch linux, centos, debian, coreos, ubuntu (16+)  
+**lang**: bash, python, ruby, markdown, json  
+**apps**: nginx, postgresql, mysql, etherpad, chef  
+**workflow**: ansible, git, vim, i3wm, remmina, vagrant, bash (x2)
 
 ## Education
 
