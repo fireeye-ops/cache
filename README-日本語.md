@@ -3,16 +3,31 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](http://www.github.com/lae)  
-シカゴ, イリノイ 60608  
+サンノゼ、 カリフォルニア 
 (電話番号をメールでお尋ね下さい)
 
 ## 目的
 
-システムエンジニアや自動サービス(devops).
+自動中心な上級のシステムエンジニア役を探しています。
 
 ## 仕事
 
-### [Sleepy Giant Entertainment](http://sleepygiant.com) - シカゴ、イリノイ
+### [FireEye, Inc. (ファイア・アイ)](https://fireeye.jp) - ミルピタス、カリフォルニア州
+
+サイバーセキュリティ会社です。
+
+#### デブオプスエンジニア - March 2015, ongoing
+
+- provided infrastructure support for FireEye Labs (R&D), which involved 
+  leading the upbringing of several internal projects to completion in 
+  collaboration with other teams.
+- implemented various services and processes for automating Linux systems in 
+  the various stages of their lifecycle, mainly via ansible but including other 
+  not-yet-public automation software.
+- いろんな分散システムと活躍しました。例：Ceph, Cassandra, 他のFireEyeシステム
+- 他の責任もありますが、後で書きます。
+
+### [Sleepy Giant Entertainment](http://sleepygiant.com) - シカゴ、イリノイ州
 
 ゲームインフラストラクチャー開発会社
 
@@ -24,7 +39,7 @@
 - wrote various scripts in Python, Ruby and Bash
 - was responsible for the security audit after the Heartbleed PSA
 
-### [HostGator.Com, LLC](http://hostgator.com) - オースティン、テキサス
+### [HostGator.Com, LLC](http://hostgator.com) - オースティン、テキサス州
 
 A shared web hosting company who also offers dedicated servers/VMs.
 
