@@ -1,8 +1,0 @@
-Tis...my resume, in Markdown, with a bash script to convert it to LaTeX and then to PDF.
-
-TODO:
-Rework a new layout for resume, maybe without LaTeX (e.g. html tables+css)
-
-PDF is not being regenerated for each resume update for the time being as I 
-intend to write a new template and probably have broken the regen script with 
-recent resume changes. Please see resume.md for the most up-to-date info.
