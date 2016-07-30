@@ -16,7 +16,7 @@
 
 サイバーセキュリティ会社です。
 
-#### デブオプスエンジニア - March 2015, ongoing
+#### 研究開発部のインフラエンジニア - March 2015, ongoing
 
 - provided infrastructure support for FireEye Labs (R&D), which involved 
   leading the upbringing of several internal projects to completion in 
