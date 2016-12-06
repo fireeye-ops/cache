@@ -17,15 +17,20 @@ A cybersecurity company with a renown background in malware detection.
 
 #### Research Infrastructure Engineer - March 2015, ongoing
 
-- provided infrastructure support for FireEye Labs (R&D), which involved 
-  leading the upbringing of several internal projects to completion in 
-  collaboration with other teams.
+- provided infrastructure support for researchers in FireEye Labs (R&D) and
+  planning/deployment of a few internal services
 - implemented various services and processes for automating Linux systems in 
   the various stages of their lifecycle, mainly via ansible but including other 
   not-yet-public automation software.
 - worked with several distributed systems, including but not limited to Ceph, 
-  Cassandra, and internal FireEye systems.
-- quite a bit more to be honest - to be filled/modified later.
+  Cassandra, Elasticsearch, and internal FireEye systems.
+- deployed HA virtualized environment within Labs, which our internal GitHub
+  Enterprise service runs on (that I also am primary maintainer of)
+- managed inventory and hardware for a fleet of approximately one thousand
+- deployed and maintained monitoring environment centered around Prometheus
+- wrote several ansible roles of good quality (subjective in a sense - but
+  check out the Github link), many of which are open sourced
+- wrote an internal tool in Rust to make it easier for my team to manage servers
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
