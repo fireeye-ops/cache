@@ -71,9 +71,9 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ## Volunteering
 
-* [**Simple Mona**](http://simplemona.com) - sole administrator of this pool 
+* **Simple Mona** - sole administrator of this pool 
   for the Monacoin cryptocurrency - 
-  [development halted](https://github.com/liliff/simplemona)  
+  [development halted](https://github.com/lae/simplemona)  
   - involved administrating a RabbitMQ cluster, developing in Python (Flask),
     and querying in Postgres  
   - i18n support, added Japanese translation (by me and a couple native speakers)  
@@ -103,3 +103,4 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 **University of Illinois at Urbana-Champaign** - 2010 -- 2011 - East Asian 
   Languages and Cultures
+**De Anza College** - 2016 -- 2018 (expected) - Computer Science
