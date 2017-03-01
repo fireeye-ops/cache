@@ -1,14 +1,14 @@
-# Musee Ullah (ムセィウッラ)
+# Musee Ullah (ウッラムセィ)
 
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](http://www.github.com/lae)  
 サンノゼ、 カリフォルニア 
-(電話番号をメールでお尋ね下さい)
+(電話番号をメールでお尋ねて下さい)
 
 ## 目的
 
-自動中心な上級のシステムエンジニア役を探しています。
+自動化専門の上級インフラエンジニア役を探しています。
 
 ## 仕事
 
@@ -16,34 +16,39 @@
 
 サイバーセキュリティ会社です。
 
-#### 研究開発部のインフラエンジニア - March 2015, ongoing
+#### 研究開発部のインフラエンジニア - ２０１５年３月-現在
 
-- provided infrastructure support for FireEye Labs (R&D), which involved 
-  leading the upbringing of several internal projects to completion in 
-  collaboration with other teams.
+- FireEye Labs (研究開発す部）の研究者をサポートしましたand provided
+  planning/deployment of a few internal services
 - implemented various services and processes for automating Linux systems in 
   the various stages of their lifecycle, mainly via ansible but including other 
   not-yet-public automation software.
-- いろんな分散システムと活躍しました。例：Ceph, Cassandra, 他のFireEyeシステム
-- 他の責任もありますが、後で書きます。
+- 様々な分散システムと活躍しました。例：Ceph、Cassandra、Elasticsearch、他のFireEyeシステム
+- deployed HA virtualized environment within Labs, which our internal GitHub
+  Enterprise service runs on (that I also am primary maintainer of)
+- 目録やハードウェア（約１０００台）を手がけました。
+- Prometheus等の監視環境を立てました、育てました。
+- 沢山の高級ansibleロールを開発しました（これは主観的かもしれませんが、何卒Githubをチェックして下さい)。
+- Rustで社内のシステム管理ツールを開発しました、同僚の仕事を楽になれるのために。
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - シカゴ、イリノイ州
 
 ゲームインフラストラクチャー開発会社
 
-#### システムエンジニア - 2013年7月から2014年9月まで
+#### システムエンジニア - ２０１３年７月から２０１４年９月まで
 
-- was introduced to Chef and other automation utilities
-- worked with several Amazon Web Services, including RDS, VPC, Beanstalk
+- Chefや他の自動化ツールの紹介を頂きました。
+- Amazon Web Servicesを作用しました、RDSやVPCやBeanstalk等
 - replaced part of SG's development cycle with Docker (Jenkins CI)
-- wrote various scripts in Python, Ruby and Bash
+- PythonかRubyかBashで様々のスクリプトを開発しました。
+- Heartbleed発表あとに安全保護監査を行いました。
 - was responsible for the security audit after the Heartbleed PSA
 
 ### [HostGator.Com, LLC](http://hostgator.com) - オースティン、テキサス州
 
 A shared web hosting company who also offers dedicated servers/VMs.
 
-#### Systems Monitoring - December 2011 to July 2012
+#### システム監視者 - ２０１１年１２月から２０１２年７月まで
 
 - monitored >4500 machines remotely (SoftLayer) using Zabbix/ZMonitor
 - dealt with user abuse, compromised clients, broken configurations, and other resource usage issues
