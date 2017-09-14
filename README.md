@@ -15,6 +15,13 @@ A senior systems administration position with a heavy focus on automation.
 
 A cybersecurity company with a renown background in malware detection.
 
+#### Engineer Lead - October 2015, ongoing
+
+- led/mentored team of 3 (at most, including myself) devops engineers
+- taught team on topics like writing well defined Ansible roles,
+  managing database/VM/storage clusters, etc
+- wrote an internal tool in Rust to make it easier for my team to manage servers
+
 #### Research Infrastructure Engineer - March 2015, ongoing
 
 - provided infrastructure support for researchers in FireEye Labs (R&D) and
@@ -30,7 +37,6 @@ A cybersecurity company with a renown background in malware detection.
 - deployed and maintained monitoring environment centered around Prometheus
 - wrote several ansible roles of good quality (subjective in a sense - but
   check out the Github link), many of which are open sourced
-- wrote an internal tool in Rust to make it easier for my team to manage servers
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
