@@ -32,7 +32,7 @@ A cybersecurity company with a renown background in malware detection.
   provisioning for FireEye's appliance OSes within this environment, removing
   the need for researchers to manually install and configure them theirselves.
 - worked with several distributed systems, including but not limited to Ceph,
-  Cassandra, Elasticsearch, and internal FireEye systems.
+  Cassandra, Elasticsearch, and internal FireEye systems
 - deployed HA virtualized Proxmox environment within Labs, which my team hosts
   and maintains many services on, including GitHub Enterprise and NetBox
 - managed inventory and hardware for a fleet of ~900-1000

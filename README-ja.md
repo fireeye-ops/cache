@@ -27,13 +27,12 @@
 
 - FireEye Labs (研究開発部)の研究者にサポートを上げました
 - 社内のサービスのインフラデサインや実現を行いました
-- 
-- implemented various services and processes for automating Linux systems in 
-  the various stages of their lifecycle, mainly via ansible but including other 
-  not-yet-public automation software.
+- テンプレを元にするPXE用意サーバーを立って、Ansibleで構成管理やソフトウェア
+  デプロイ手順を買いて、システムライフサイクルの自動化手続きを実現しました
 - 様々な分散システムと活躍しました。例：Ceph、Cassandra、Elasticsearch、他のFireEyeシステム
-- deployed HA virtualized environment within Labs, which our internal GitHub
-  Enterprise service runs on (that I also am primary maintainer of)
+- 高可用性のProxmox VMクラスタを立てました(このためにAnsibleロールを開発しました)
+  様々なクラスタ上に社内のサービスをデプロイしました、GitHub Enterprise、Netbox、
+  社内のマルウェア研究アプリとか
 - 目録やハードウェア（約１０００台）を手がけました。
 - Prometheus等の監視環境を立てました、育てました。
 - 沢山の高級ansibleロールを開発しました（これは主観的かもしれませんが、
