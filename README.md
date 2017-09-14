@@ -102,9 +102,9 @@ A shared web hosting company who also offers dedicated servers/VMs.
 ## Familiarities / Preferences
 
 **distros**: arch linux, centos, debian, coreos, ubuntu (16+)  
-**lang**: bash, python, ruby, markdown, json  
+**lang**: bash, python, rust, ruby, markdown, json  
 **apps**: nginx, postgresql, mysql, etherpad, chef  
-**workflow**: ansible, git, vim, i3wm, remmina, vagrant, bash (x2)
+**workflow**: ansible, git, vim, i3wm, remmina, lxc, vagrant/virtualbox/qemu-kvm, bash (x2)
 
 ## Education
 
