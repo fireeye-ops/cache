@@ -15,21 +15,21 @@ A senior systems administration position with a heavy focus on automation.
 
 A cybersecurity company with a renown background in malware detection.
 
-#### Engineer Lead - October 2015, ongoing
+#### Engineering Lead - October 2015, ongoing
 
-- led/mentored team of 3 (at most, including myself) devops engineers
-- taught team on topics like writing well defined Ansible roles,
-  managing database/VM/storage clusters, etc
+- led/mentored team of 3 (at most, including myself) DevOps engineers
+- taught team on topics like writing well defined Ansible roles, managing
+  database/VM/storage clusters, deployment practices, etc
 - wrote an internal tool in Rust to make it easier for my team to manage servers
 
 #### Research Infrastructure Engineer - March 2015, ongoing
 
 - provided infrastructure support for researchers in FireEye Labs (R&D) and
   planning/deployment of a few internal services
-- implemented various services and processes for automating Linux systems in 
-  the various stages of their lifecycle, mainly via ansible but including other 
+- implemented various services and processes for automating Linux systems in
+  the various stages of their lifecycle, mainly via ansible but including other
   not-yet-public automation software.
-- worked with several distributed systems, including but not limited to Ceph, 
+- worked with several distributed systems, including but not limited to Ceph,
   Cassandra, Elasticsearch, and internal FireEye systems.
 - deployed HA virtualized environment within Labs, which our internal GitHub
   Enterprise service runs on (that I also am primary maintainer of)
@@ -60,8 +60,8 @@ A shared web hosting company who also offers dedicated servers/VMs.
 - dealt with user abuse, compromised clients, broken configurations, and other resource usage issues
 - handled network abuse/issues by either firewall or escalating to SL (UDP/SYN floods, Slowloris)
 - sole assistant from the monitoring team during HG's architecture migration (32->64bit)
-- wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179) 
-  on the [network status forums](http://forums.hostgator.com/network-status-f14.html) 
+- wrote [public announcements](http://forums.hostgator.com/search.php?do=finduser&u=126179)
+  on the [network status forums](http://forums.hostgator.com/network-status-f14.html)
   for extended downtime issues.  
 
 #### Systems Administrator - June 2011 to July 2012
@@ -70,31 +70,30 @@ A shared web hosting company who also offers dedicated servers/VMs.
   issues, backups/restorations, triage, software upgrades and installations.
 - Filed internal bug reports and wrote documentation for company wikis and knowledgebase.
 
-### Contracted Positions
+### Contracted Roles
 
-* [**batee.com**](http://batee.com) - site redesign using Bootstrap (by 
+* [**batee.com**](http://batee.com) - site redesign using Bootstrap (by
   request); uses Jekyll for site generation
 
 ## Volunteering
 
-* **Simple Mona** - sole administrator of this pool 
-  for the Monacoin cryptocurrency - 
-  [development halted](https://github.com/lae/simplemona)  
+* **Simple Mona** - sole administrator of this pool for the Monacoin
+  cryptocurrency - [development halted](https://github.com/lae/simplemona)  
   - involved administrating a RabbitMQ cluster, developing in Python (Flask),
     and querying in Postgres  
   - i18n support, added Japanese translation (by me and a couple native speakers)  
-* [**Knights of Reason**](http://knightsofreason.net) - primary contact for 
-  technical issues, server owner/co-admin, forum moderator. 
+* [**Knights of Reason**](http://knightsofreason.net) - primary contact for
+  technical issues, server owner/co-admin, forum moderator.
   ([server documentation](https://wiki.milkteafuzz.com))  
-* [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org) 
-  (Urbana, IL, 8/2010-2/2011) - bike mechanic and technologist, e.g. repurposed 
+* [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org)
+  (Urbana, IL, 8/2010-2/2011) - bike mechanic and technologist, e.g. repurposed
   old laptops with Debian for use at the shop.  
 
 ## Projects / One-Offs
 
-* [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix 
+* [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix
   written in Ruby.  
-* [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation 
+* [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation
   tool written in Python and Angularjs 
   ([copy of it in production](https://c.milkteafuzz.com/)).  
 
@@ -107,6 +106,6 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ## Education
 
-**University of Illinois at Urbana-Champaign** - 2010 -- 2011 - East Asian 
+**University of Illinois at Urbana-Champaign** - 2010 -- 2011 - East Asian
   Languages and Cultures  
 **De Anza College** - 2016 -- 2018 (expected) - Computer Science
