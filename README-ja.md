@@ -4,22 +4,29 @@
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
 サンノゼ、 カリフォルニア 
-(電話番号をメールでお尋ねて下さい)
+(電話番号はメールで尋ねて下さい)
 
-## 目的
+## 目標
 
-自動化専門の上級インフラエンジニア役を探しています。
+自動化専門の上級インフラエンジニアまたはフルスタックエンジニアの役目を探しています。
 
-## 仕事
+## 採用
 
 ### [FireEye, Inc. (ファイア・アイ)](https://fireeye.jp) - ミルピタス、カリフォルニア州
 
-サイバーセキュリティ会社です。
+マルウェア発見専門のサイバーセキュリティ会社です。
 
-#### 研究開発部のインフラエンジニア - ２０１５年３月-現在
+#### 研究開発部のエンジニア・リード - 2015年10月-現在
 
-- FireEye Labs (研究開発す部）の研究者をサポートしましたand provided
-  planning/deployment of a few internal services
+- ２人のDevOpsエンジニアをリードやメンターしました
+- Ansibleの豪華なロールを開発方法、データベースやVMやストレージのクラスタを運営手続き等を教えて上げました
+- Rustで社内のシステム管理ツールを開発しました、チームの仕事を楽になれるのために。
+
+#### 研究開発部のインフラ・エンジニア - 2015年3月-現在
+
+- FireEye Labs (研究開発部)の研究者にサポートを上げました
+- 社内のサービスのインフラデサインや実現を行いました
+- 
 - implemented various services and processes for automating Linux systems in 
   the various stages of their lifecycle, mainly via ansible but including other 
   not-yet-public automation software.
@@ -29,7 +36,7 @@
 - 目録やハードウェア（約１０００台）を手がけました。
 - Prometheus等の監視環境を立てました、育てました。
 - 沢山の高級ansibleロールを開発しました（これは主観的かもしれませんが、何卒Githubをチェックして下さい)。
-- Rustで社内のシステム管理ツールを開発しました、同僚の仕事を楽になれるのために。
+
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - シカゴ、イリノイ州
 
@@ -64,41 +71,36 @@ A shared web hosting company who also offers dedicated servers/VMs.
   issues, backups/restorations, triage, software upgrades and installations.
 - Filed internal bug reports and wrote documentation for company wikis and knowledgebase.
 
-### Contracted Positions
+### 契約系
 
 * [**batee.com**](http://batee.com) - site redesign using Bootstrap (by 
   request); uses Jekyll for site generation
 
-## ボランティア
+##  ボランティア 
 
-* [**Simple Mona**](http://simplemona.com) - sole administrator of this pool 
-  for the Monacoin cryptocurrency - 
-  [development halted](https://github.com/liliff/simplemona)  
-  - involved administrating a RabbitMQ cluster, developing in Python (Flask),
-    and querying in Postgres  
-  - i18n support, added Japanese translation (by me and a couple native speakers)  
-* [**Knights of Reason**](http://knightsofreason.net) - primary contact for 
-  technical issues, server owner/co-admin, forum moderator. 
-  ([server documentation](https://wiki.milkteafuzz.com))  
-* [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org) 
-  (Urbana, IL, 8/2010-2/2011) - bike mechanic and technologist, e.g. repurposed 
-  old laptops with Debian for use at the shop.  
+* **Simple Mona** (2014年-2015年) - Monacoinの暗号通貨マイニングプールを運営しました - [開発中止](https://github.com/lae/simplemona)  
+  - RabbitMQクラスタ管理、Python (Flask)の開発、PostgreSQLクエリー作や管理  
+  - i18n機能追加、和訳追加(ネイティブスピーカーと一緒に)  
+* [**Knights of Reason**](http://knightsofreason.net) - コンタクト、サーバー運営者、フォラム議長 ([サーバー・ドキュメンテーション](https://wiki.milkteafuzz.com))  
+* [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org)
+  (アーバナ、イリノイ州, 2010年8月-2011年2月) - 自転車メカニック、テクノロジスト。自転車屋で古いパソコンを客用のパソコンにDebianと改造しました    
 
-## プロジェクト / One-Offs
+## プロジェクト
 
-* [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix 
-  written in Ruby.  
-* [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation 
-  tool written in Python and Angularjs 
-  ([copy of it in production](https://c.milkteafuzz.com/)).  
+* [**ZMonitor**](https://github.com/lae/zmonitor) - Rubyで開発しましたのZabbixのCLIダッシュボード  
+* [**Wagnaria**](https://github.com/lae/wagnaria) - PythonとAngularJSで開発しましたのファン字幕団体の管理ツール  
+  ([productionインスタンス](https://c.milkteafuzz.com/)).  
+* [**SIF Tracker**](https://github.com/lae/sift) - per-user leaderboard tracking
+  web application written in bottle.py/Flask, with some backend bits in Ruby  
 
-## Familiarities / Preferences
+## 理解・お好み
 
-**distros**: arch linux, centos, debian  
-**lang**: bash, ruby, python; markdown, json  
-**apps**: nginx, mysql, mongodb, rabbitmq, etherpad, chef  
-**workflow**: git, vim, i3wm, remmina, vagrant, bash (x2)
+**distros**: arch linux, centos, debian, coreos, ubuntu (16+)  
+**lang**: bash, python, rust, ruby, markdown, json  
+**apps**: nginx, postgresql, mysql, etherpad, chef  
+**workflow**: ansible, git, vim, i3wm, remmina, lxc, vagrant/virtualbox/qemu-kvm, bash (x2)
 
 ## 教育
 
 **イリノイ大学アーバナ・シャンぺーン校** - 2010 -- 2011 - 東アジアの語と文化
+**De Anza College** - 2016 -- 2018 (予定) - コンピュータ科学
