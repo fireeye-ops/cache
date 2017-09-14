@@ -2,7 +2,7 @@
 
 <arbeiter@lae.is>  
 <https://lae.is>  
-[Github](http://www.github.com/lae)  
+[Github](https://www.github.com/lae)  
 San Jose, CA
 
 ## Objective

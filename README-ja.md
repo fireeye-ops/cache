@@ -2,7 +2,7 @@
 
 <arbeiter@lae.is>  
 <https://lae.is>  
-[Github](http://www.github.com/lae)  
+[Github](https://www.github.com/lae)  
 サンノゼ、 カリフォルニア 
 (電話番号をメールでお尋ねて下さい)
 
