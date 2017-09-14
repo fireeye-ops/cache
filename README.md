@@ -96,10 +96,10 @@ A shared web hosting company who also offers dedicated servers/VMs.
 * [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix
   written in Ruby.  
 * [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation
-  tool written in Python and AngularJS
+  tool written in bottle.py/Python and AngularJS
   ([copy of it in production](https://c.milkteafuzz.com/)).  
 * [**SIF Tracker**](https://github.com/lae/sift) - per-user leaderboard tracking
-  web application written in bottle.py/Flask, with some backend bits in Ruby  
+  web application written in Flask/Python, with some backend bits in Ruby  
 
 ## Familiarities / Preferences
 

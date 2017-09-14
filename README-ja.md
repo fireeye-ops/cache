@@ -88,10 +88,9 @@ A shared web hosting company who also offers dedicated servers/VMs.
 ## プロジェクト
 
 * [**ZMonitor**](https://github.com/lae/zmonitor) - Rubyで開発しましたのZabbixのCLIダッシュボード  
-* [**Wagnaria**](https://github.com/lae/wagnaria) - PythonとAngularJSで開発しましたのファン字幕団体の管理ツール  
+* [**Wagnaria**](https://github.com/lae/wagnaria) - bottle.py/PythonとAngularJSで開発しましたのファン字幕団体の管理ツール  
   ([productionインスタンス](https://c.milkteafuzz.com/)).  
-* [**SIF Tracker**](https://github.com/lae/sift) - per-user leaderboard tracking
-  web application written in bottle.py/Flask, with some backend bits in Ruby  
+* [**SIF Tracker**](https://github.com/lae/sift) - Flask/PythonやRubyと開発しましたのスクフェスの記録ウエブアプリ(選手ずつのイベントポイントなど)  
 
 ## 理解・お好み
 
