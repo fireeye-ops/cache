@@ -72,12 +72,12 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ### Contracted Roles
 
-* [**batee.com**](http://batee.com) - site redesign using Bootstrap (by
-  request); uses Jekyll for site generation
+* [**batee.com**](http://batee.com) - redesigned website using Bootstrap; moved
+  editing process from disparate HTML files to Jekyll static site generation
 
 ## Volunteering
 
-* **Simple Mona** - sole administrator of this pool for the Monacoin
+* **Simple Mona** (2014-2015) - sole administrator of this pool for the Monacoin
   cryptocurrency - [development halted](https://github.com/lae/simplemona)  
   - involved administrating a RabbitMQ cluster, developing in Python (Flask),
     and querying in Postgres  
@@ -94,8 +94,10 @@ A shared web hosting company who also offers dedicated servers/VMs.
 * [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix
   written in Ruby.  
 * [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation
-  tool written in Python and Angularjs 
+  tool written in Python and AngularJS
   ([copy of it in production](https://c.milkteafuzz.com/)).  
+* [**SIF Tracker**](https://github.com/lae/sift) - per-user leaderboard tracking
+  web application written in bottle.py/Flask, with some backend bits in Ruby  
 
 ## Familiarities / Preferences
 
