@@ -25,15 +25,17 @@ A cybersecurity company with a renown background in malware detection.
 #### Research Infrastructure Engineer - March 2015, ongoing
 
 - provided infrastructure support for researchers in FireEye Labs (R&D) and
-  planning/deployment of a few internal services
-- implemented various services and processes for automating Linux systems in
-  the various stages of their lifecycle, mainly via ansible but including other
-  not-yet-public automation software.
+  planning/deployment of a few internal services used by malware researchers
+- implemented processes for automating system lifecycle, using a template-based
+  PXE provisioning server for baremetal and Ansible for continuous configuration
+  management and software deployment; also built and integrated automated
+  provisioning for FireEye's appliance OSes within this environment, removing
+  the need for researchers to manually install and configure them theirselves.
 - worked with several distributed systems, including but not limited to Ceph,
   Cassandra, Elasticsearch, and internal FireEye systems.
-- deployed HA virtualized environment within Labs, which our internal GitHub
-  Enterprise service runs on (that I also am primary maintainer of)
-- managed inventory and hardware for a fleet of approximately one thousand
+- deployed HA virtualized Proxmox environment within Labs, which my team hosts
+  and maintains many services on, including GitHub Enterprise and NetBox
+- managed inventory and hardware for a fleet of ~900-1000
 - deployed and maintained monitoring environment centered around Prometheus
 - wrote several ansible roles of good quality (subjective in a sense - but
   check out the Github link), many of which are open sourced
