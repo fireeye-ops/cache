@@ -19,7 +19,8 @@
 #### 研究開発部のエンジニア・リード - 2015年10月-現在
 
 - ２人のDevOpsエンジニアをリードやメンターしました
-- Ansibleの豪華なロールを開発方法、データベースやVMやストレージのクラスタを運営手続き等を教えて上げました
+- Ansibleの豪華なロールを開発方法、データベースやVMやストレージのクラスタを運営
+  手続き等を教えて上げました
 - Rustで社内のシステム管理ツールを開発しました、チームの仕事を楽になれるのために。
 
 #### 研究開発部のインフラ・エンジニア - 2015年3月-現在
@@ -35,7 +36,8 @@
   Enterprise service runs on (that I also am primary maintainer of)
 - 目録やハードウェア（約１０００台）を手がけました。
 - Prometheus等の監視環境を立てました、育てました。
-- 沢山の高級ansibleロールを開発しました（これは主観的かもしれませんが、何卒Githubをチェックして下さい)。
+- 沢山の高級ansibleロールを開発しました（これは主観的かもしれませんが、
+  何卒Githubをチェックして下さい)。
 
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - シカゴ、イリノイ州
@@ -78,19 +80,26 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ##  ボランティア 
 
-* **Simple Mona** (2014年-2015年) - Monacoinの暗号通貨マイニングプールを運営しました - [開発中止](https://github.com/lae/simplemona)  
+* **Simple Mona** (2014年-2015年) - Monacoinの暗号通貨マイニングプールを
+  運営しました - [開発中止](https://github.com/lae/simplemona)  
   - RabbitMQクラスタ管理、Python (Flask)の開発、PostgreSQLクエリー作や管理  
   - i18n機能追加、和訳追加(ネイティブスピーカーと一緒に)  
-* [**Knights of Reason**](http://knightsofreason.net) - コンタクト、サーバー運営者、フォラム議長 ([サーバー・ドキュメンテーション](https://wiki.milkteafuzz.com))  
+* [**Knights of Reason**](http://knightsofreason.net) - コンタクト、サーバー
+  運営者、フォラム議長
+  ([サーバー・ドキュメンテーション](https://wiki.milkteafuzz.com))  
 * [**The Bike Project of Urbana-Champaign**](http://thebikeproject.org)
-  (アーバナ、イリノイ州, 2010年8月-2011年2月) - 自転車メカニック、テクノロジスト。自転車屋で古いパソコンを客用のパソコンにDebianと改造しました    
+  (アーバナ、イリノイ州, 2010年8月-2011年2月) - 自転車メカニック、
+  テクノロジスト。自転車屋で古いパソコンを客用のパソコンにDebianと改造しました  
 
 ## プロジェクト
 
-* [**ZMonitor**](https://github.com/lae/zmonitor) - Rubyで開発しましたのZabbixのCLIダッシュボード  
-* [**Wagnaria**](https://github.com/lae/wagnaria) - bottle.py/PythonとAngularJSで開発しましたのファン字幕団体の管理ツール  
+* [**ZMonitor**](https://github.com/lae/zmonitor) - Rubyで開発しましたのZabbixの
+  CLIダッシュボード  
+* [**Wagnaria**](https://github.com/lae/wagnaria) - bottle.py/PythonとAngularJSで
+  開発しましたのファン字幕団体の管理ツール  
   ([productionインスタンス](https://c.milkteafuzz.com/)).  
-* [**SIF Tracker**](https://github.com/lae/sift) - Flask/PythonやRubyと開発しましたのスクフェスの記録ウエブアプリ(選手ずつのイベントポイントなど)  
+* [**SIF Tracker**](https://github.com/lae/sift) - Flask/PythonやRubyと
+  開発しましたのスクフェスの記録ウエブアプリ(選手ずつのイベントポイントなど)  
 
 ## 理解・お好み
 
