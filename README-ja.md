@@ -16,14 +16,14 @@
 
 マルウェア発見専門のサイバーセキュリティ会社です。
 
-#### 研究開発部のエンジニア・リード - 2015年10月-現在
+#### 研究開発部のエンジニア・リード ー 2015年10月 - 現在
 
 - ２人のDevOpsエンジニアをリードやメンターしました
 - Ansibleの豪華なロールを開発方法、データベースやVMやストレージのクラスタを運営
   手続き等を教えて上げました
 - Rustで社内のシステム管理ツールを開発しました、チームの仕事を楽になれるのために。
 
-#### 研究開発部のインフラ・エンジニア - 2015年3月-現在
+#### 研究開発部のインフラ・エンジニア ー 2015年3月 - 現在
 
 - FireEye Labs (研究開発部)の研究者にサポートを上げました
 - 社内のサービスのインフラデサインや実現を行いました
@@ -43,7 +43,7 @@
 
 ゲームインフラストラクチャー開発会社
 
-#### システムエンジニア - ２０１３年７月から２０１４年９月まで
+#### システムエンジニア ー 2013年7月 - 2014年9月
 
 - Chefや他の自動化ツールの紹介を頂きました。
 - Amazon Web Servicesを作用しました、RDSやVPCやBeanstalk等
@@ -56,7 +56,7 @@
 
 A shared web hosting company who also offers dedicated servers/VMs.
 
-#### システム監視者 - ２０１１年１２月から２０１２年７月まで
+#### システム監視者 ー 2011年12月 - 2012年7月
 
 - monitored >4500 machines remotely (SoftLayer) using Zabbix/ZMonitor
 - dealt with user abuse, compromised clients, broken configurations, and other resource usage issues
@@ -66,7 +66,7 @@ A shared web hosting company who also offers dedicated servers/VMs.
   on the [network status forums](http://forums.hostgator.com/network-status-f14.html) 
   for extended downtime issues.  
 
-#### Systems Administrator - June 2011 to July 2012
+#### システム管理者 ー 2011年6月 - 2012年7月
 
 - was primarily help desk support, handling website/database/application errors and
   issues, backups/restorations, triage, software upgrades and installations.
