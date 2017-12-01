@@ -31,6 +31,10 @@ A cybersecurity company with a renown background in malware detection.
   management and software deployment; also built and integrated automated
   provisioning for FireEye's appliance OSes within this environment, removing
   the need for researchers to manually install and configure them theirselves.
+- deployed and managed a Docker-based continuous integration environment and
+  registry
+- re-architected a large Django-based internal application to focus around
+  minimalist (Alpine-based) Docker images.
 - worked with several distributed systems, including but not limited to Ceph,
   Cassandra, Elasticsearch, and internal FireEye systems
 - deployed HA virtualized Proxmox environment within Labs, which my team hosts
