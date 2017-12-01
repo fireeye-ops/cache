@@ -116,4 +116,3 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 **University of Illinois at Urbana-Champaign** - 2010 -- 2011 - East Asian
   Languages and Cultures  
-**De Anza College** - 2016 -- 2018 (expected) - Computer Science
