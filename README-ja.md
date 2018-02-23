@@ -1,4 +1,4 @@
-# Musee Ullah (ウッラ・ムセィ)
+# Musee Ullah (ウッラ・ムシー)
 
 <arbeiter@lae.is>  
 <https://lae.is>  
