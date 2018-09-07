@@ -15,12 +15,12 @@ A senior systems administration position with a heavy focus on automation.
 
 A cybersecurity company with a renown background in malware detection.
 
-#### Senior Research Infrastructure Engineer - January 2018, ongoing
+#### Senior Research Infrastructure Engineer - January 2018 to July 2018
 
 - provided infrastructure support for researchers in FireEye Labs (R&D) and
   planning/deployment of a few internal services used by malware researchers
 
-#### Engineering Lead - October 2015, ongoing
+#### Engineering Lead - October 2015 to July 2018
 
 - led/mentored team of 3 (at most, including myself) DevOps engineers
 - taught team on topics like writing well defined Ansible roles, managing
