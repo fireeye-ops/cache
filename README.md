@@ -19,23 +19,23 @@ A cybersecurity company with a renown background in malware detection.
 #### Senior Research Infrastructure Engineer - January 2018 to July 2018
 #### Research Infrastructure Engineer (Lead) - March 2015 to December 2017
 
-- Led a team of 3 DevOps engineers, mentoring them on topics like writing well
-  defined Ansible roles and managing distributed database/VM/storage clusters.
-- Provided infrastructure services to researchers and R&D teams, e.g. planning
-  and deployment of malware analysis services.
-- Wrote a small tool in Rust to simplify controlling servers via IPMI.
-- Implemented system lifecycle automation processes with a template-based PXE
+- led a team of 3 DevOps engineers, mentoring them on topics like writing well
+  defined Ansible roles and managing distributed database/VM/storage clusters
+- provided infrastructure services to researchers and R&D teams, e.g. planning
+  and deployment of malware analysis services
+- wrote a small tool in Rust to simplify controlling servers via IPMI
+- implemented system lifecycle automation processes with a template-based PXE
   server for provisioning bare metal systems, including FireEye's appliance OS
   (saving researchers hundreds of hours of manual setup), and Ansible for
-  configuration management and software deployment.
-- Deployed and managed a continuous integration environment around Drone CI.
-- Re-architected an internal Django application around minimal Docker images.
-- Deployed (several involved writing open-sourced Ansible roles) and managed
+  configuration management and software deployment
+- deployed and managed a continuous integration environment around Drone CI
+- re-architected an internal Django application around minimal Docker images
+- deployed (several involved writing open-sourced Ansible roles) and managed
   distributed systems such as Ceph, Cassandra, Elasticsearch and internal
   FireEye systems, as well as highly available Proxmox virtualization clusters
-  (on top of which we host/maintain services like GitHub Enterprise and NetBox).
-- Managed inventory and hardware for a fleet of ~1000 servers.
-- Architected and deployed monitoring environment around Prometheus.
+  (on top of which we maintain services like GitHub Enterprise and NetBox)
+- managed inventory and hardware for a fleet of ~1000 servers
+- architected and deployed monitoring environment around Prometheus
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
