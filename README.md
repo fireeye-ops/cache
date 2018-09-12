@@ -7,7 +7,8 @@ Milpitas, CA
 
 ## Objective
 
-A senior systems administration position with a heavy focus on automation.
+A senior systems administration and/or Rust/Python programming role with a focus
+on systems/deployment automation and/or tools development.
 
 ## Employment
 
@@ -16,36 +17,25 @@ A senior systems administration position with a heavy focus on automation.
 A cybersecurity company with a renown background in malware detection.
 
 #### Senior Research Infrastructure Engineer - January 2018 to July 2018
+#### Research Infrastructure Engineer (Lead) - March 2015 to December 2017
 
-- provided infrastructure support for researchers in FireEye Labs (R&D) and
-  planning/deployment of a few internal services used by malware researchers
-
-#### Engineering Lead - October 2015 to July 2018
-
-- led/mentored team of 3 (at most, including myself) DevOps engineers
-- taught team on topics like writing well defined Ansible roles, managing
-  database/VM/storage clusters, deployment practices, etc
-- wrote an internal tool in Rust to make it easier for my team to manage servers
-
-#### Research Infrastructure Engineer - March 2015 to December 2017
-
-- implemented processes for automating system lifecycle, using a template-based
-  PXE provisioning server for baremetal and Ansible for continuous configuration
-  management and software deployment; also built and integrated automated
-  provisioning for FireEye's appliance OSes within this environment, removing
-  the need for researchers to manually install and configure them theirselves.
-- deployed and managed a Docker-based continuous integration environment and
-  registry
-- re-architected a large Django-based internal application to focus around
-  minimalist (Alpine-based) Docker images.
-- worked with several distributed systems, including but not limited to Ceph,
-  Cassandra, Elasticsearch, and internal FireEye systems
-- deployed HA virtualized Proxmox environment within Labs, which my team hosts
-  and maintains many services on, including GitHub Enterprise and NetBox
-- managed inventory and hardware for a fleet of ~900-1000
-- deployed and maintained monitoring environment centered around Prometheus
-- wrote several ansible roles of good quality (subjective in a sense - but
-  check out the Github link), many of which are open sourced
+- Led a team of 3 DevOps engineers, mentoring them on topics like writing well
+  defined Ansible roles and managing distributed database/VM/storage clusters.
+- Provided infrastructure services to researchers and R&D teams, e.g. planning
+  and deployment of malware analysis services.
+- Wrote a small tool in Rust to simplify controlling servers via IPMI.
+- Implemented system lifecycle automation processes with a template-based PXE
+  server for provisioning bare metal systems, including FireEye's appliance OS
+  (saving researchers hundreds of hours of manual setup), and Ansible for
+  configuration management and software deployment.
+- Deployed and managed a continuous integration environment around Drone CI.
+- Re-architected an internal Django application around minimal Docker images.
+- Deployed (several involved writing open-sourced Ansible roles) and managed
+  distributed systems such as Ceph, Cassandra, Elasticsearch and internal
+  FireEye systems, as well as highly available Proxmox virtualization clusters
+  (on top of which we host/maintain services like GitHub Enterprise and NetBox).
+- Managed inventory and hardware for a fleet of ~1000 servers.
+- Architected and deployed monitoring environment around Prometheus.
 
 ### [Sleepy Giant Entertainment](http://sleepygiant.com) - Chicago, IL
 
