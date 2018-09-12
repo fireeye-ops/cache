@@ -3,7 +3,7 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
-San Jose, CA
+Milpitas, CA
 
 ## Objective
 

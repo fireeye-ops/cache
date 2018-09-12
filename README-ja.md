@@ -3,7 +3,7 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
-サンノゼ、 カリフォルニア 
+ミルピタス、 カリフォルニア
 (電話番号はメールで連絡ください)
 
 ## 目標
