@@ -3,7 +3,7 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
-Milpitas, CA
+Cupertino, CA
 
 ## Objective
 
@@ -11,6 +11,12 @@ A senior systems administration and/or Rust/Python programming role with a focus
 on systems/deployment automation and/or tools development.
 
 ## Employment
+
+### [Fressets, Inc.](https://fressets.com/) - Tokyo, JP (Remote)
+
+#### Senior Infrastructure Engineer - July 2019 to January 2020
+
+TBW
 
 ### [FireEye, Inc.](https://fireeye.com) - Milpitas, CA
 
