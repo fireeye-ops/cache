@@ -3,7 +3,7 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
-Cupertino, CA
+United States (Central)
 
 ## Objective
 
@@ -11,6 +11,12 @@ A senior systems administration and/or Rust/Python programming role with a focus
 on systems/deployment automation and/or tools development.
 
 ## Employment
+
+### [COVER Corporation](https://cover-corp.com/) - Tokyo, JP (Remote)
+
+#### Japanese-English Translator - April 2020, ongoing
+
+TBW
 
 ### [Fressets, Inc.](https://fressets.com/) - Tokyo, JP (Remote)
 
