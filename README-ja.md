@@ -115,7 +115,9 @@
 
 ## 教育
 
-**イリノイ大学アーバナ・シャンぺーン校** - 2010 -- 2011 - 東アジアの言葉と文化
+**イリノイ大学アーバナ・シャンぺーン校** - 2010 -- 2011 - 東アジアの言葉と文化  
+**デ・アンザ・カレッジ** - 2016 -- 2019 - システムズ開発  
+**ウエスタンガバナーズ大学** - 2020 -- 現在 - コンピュータサイエンス  
 
 [hgforum]: http://forums.hostgator.com/network-status-f14.html
 [hgposts]: http://forums.hostgator.com/search.php?do=finduser&u=126179
