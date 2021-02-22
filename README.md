@@ -14,7 +14,7 @@ on systems/deployment automation and/or tools development.
 
 ### [COVER Corporation](https://cover-corp.com/) - Tokyo, JP (Remote)
 
-#### Japanese-English Translator - April 2020, ongoing
+#### Japanese-English Translator - April 2020 to February 2021
 
 TBW
 
