@@ -14,9 +14,13 @@ on systems/deployment automation and/or tools development.
 
 ### [COVER Corporation](https://cover-corp.com/) - Tokyo, JP (Remote)
 
+An entertainment company specializing in experiences via virtual and augmented
+reality technologies.
+
 #### Japanese-English Translator - April 2020, ongoing
 
-TBW
+Provided localization, subtitling and translation checking services for
+multimedia content and company press releases.
 
 ### [Fressets, Inc.](https://fressets.com/) - Tokyo, JP (Remote)
 
@@ -114,7 +118,7 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 **distros**: arch linux, centos, debian, coreos, ubuntu (16+)  
 **lang**: bash, python, rust, ruby, markdown, json  
-**apps**: nginx, postgresql, mysql, etherpad, chef  
+**apps**: nginx, postgresql, mysql, etherpad, chef, aegisub  
 **workflow**: ansible, git, vim, i3wm, remmina, lxc, vagrant/virtualbox/qemu-kvm, bash (x2)
 
 ## Education
