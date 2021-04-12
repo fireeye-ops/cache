@@ -112,6 +112,8 @@ A shared web hosting company who also offers dedicated servers/VMs.
 
 ## Projects / One-Offs
 
+* [**Proxmox Ansible Role**](https://github.com/lae/ansible-role-proxmox) - A role for deploying and configuring complete Proxmox virtualization clusters.  
+* [**NetBox Ansible Role**](https://github.com/lae/ansible-role-netbox) - A role for deploying and configuring the NetBox Django application.  
 * [**ZMonitor**](https://github.com/lae/zmonitor) - cli dashboard for Zabbix
   written in Ruby.  
 * [**Wagnaria**](https://github.com/lae/wagnaria) - fansubbing organisation
