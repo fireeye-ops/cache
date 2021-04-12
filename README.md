@@ -24,9 +24,15 @@ multimedia content and company press releases.
 
 ### [Fressets, Inc.](https://fressets.com/) - Tokyo, JP (Remote)
 
+A fintech company with a focus on blockchain infrastructure and security.
+
 #### Senior Infrastructure Engineer - July 2019 to January 2020
 
-TBW
+- introduced a continuous deployment workflow using Terraform and Terraform
+  Cloud, making deployment environments self-documenting and reproducible.
+- devised workflows for creating Salt formulae and Terraform modules to help
+  simplify deployment tasks during in-house application development.
+- developed an Ansible role for deploying and maintaining coin daemons.
 
 ### [FireEye, Inc.](https://fireeye.com) - Milpitas, CA
 
