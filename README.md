@@ -17,7 +17,7 @@ on systems/deployment automation and/or tools development.
 An entertainment company specializing in experiences via virtual and augmented
 reality technologies.
 
-#### Japanese-English Translator - April 2020, ongoing
+#### Japanese-English Translator (Contract) - April 2020, ongoing
 
 Provided localization, subtitling and translation checking services for
 multimedia content and company press releases.
@@ -26,7 +26,7 @@ multimedia content and company press releases.
 
 A fintech company with a focus on blockchain infrastructure and security.
 
-#### Senior Infrastructure Engineer - July 2019 to January 2020
+#### Senior Infrastructure Engineer (Contract) - July 2019 to January 2020
 
 - introduced a continuous deployment workflow using Terraform and Terraform
   Cloud, making deployment environments self-documenting and reproducible.
