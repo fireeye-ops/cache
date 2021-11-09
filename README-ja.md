@@ -3,8 +3,8 @@
 <arbeiter@lae.is>  
 <https://lae.is>  
 [Github](https://www.github.com/lae)  
-キュパティーノ、 カリフォルニア
-アメリカ合衆国 (中部)
+キュパティーノ、 カリフォルニア  
+アメリカ合衆国 (中部)  
 (電話番号はメールで連絡ください)
 
 ## 目標
